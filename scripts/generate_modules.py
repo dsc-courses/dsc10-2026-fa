@@ -9,10 +9,10 @@ import sys
 import numpy as np
 
 # Edit these variables before running script
-CSV_PATH = "Lecture Schedule – DSC 10, Spring 2026 - sp26.csv"  #CHANGE CSV PATH for your computer
+CSV_PATH = "./scripts/Lecture Schedule - DSC 10, Fall 2026.csv"  #CHANGE CSV PATH for your computer
 DATE_FORMAT = "DATE MONTH/DAY"
 YEAR = 2026
-START_FROM_WEEK = 1 #only future weeks!
+START_FROM_WEEK = 0 #only future weeks!
 
 
 def fill_missing_vals(df):
@@ -93,7 +93,7 @@ def has_content(row):
     return row.loc[["Lecture", "Homework", "Lab", "Discussion", "Quiz"]].any() != ''
 
 # for a single week
-def write_week(i, dest="../_modules", write=True):  #CHANGE dest to path where "_modules" is on your computer
+def write_week(i, dest="./_modules", write=True):  #CHANGE dest to path where "_modules" is on your computer
     week = df.query("Week == @i")
     week = week[week.apply(has_content, axis=1)] 
 
