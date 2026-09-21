@@ -43,7 +43,7 @@ Week,Title,Date,#,Lecture,Readings,Links,Keywords,Homework,Discussion,Lab,Quiz,S
 9,Prediction,Mon 11/23,24,Regression and Least Squares,CIT 15.2-15.4,https://inferentialthinking.com/chapters/15/2/Regression_Line.html,"regression line in original units, outliers, errors, RMSE, best fit, least squares",,9. TVD & Permutation Testing,,,
 ,,Wed 11/25,,No Lecture,,,,,,,,
 ,,Fri 11/27,,No Lecture (Thanksgiving 🦃),,,,,,,,
-,,Mon 11/30,25,Residuals and Inference,CIT 15.5-16.3,https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html,"residuals, residual plots, patterns, datasaurus dozen, prediction intervals",,10. Regression,,,
+10,Review,Mon 11/30,25,Residuals and Inference,CIT 15.5-16.3,https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html,"residuals, residual plots, patterns, datasaurus dozen, prediction intervals",,10. Regression,,,
 ,,Tue 12/1,,,,,,,,7. Regression,,
 ,,Wed 12/2,,Review,,,,,,,,
 ,,Thu 12/3,,,,,,Final Project,,,,
