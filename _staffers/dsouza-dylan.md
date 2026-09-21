@@ -2,7 +2,7 @@
 name: Dylan Dsouza
 role: Tutor
 pronouns: he/him
-email: dydsouza@ucsd.edu
+email:
 photo: assets/staff-images/dsouza-dylan.jpg
 description: 3rd year, Data Science, Revelle
 hometown: Mumbai, India
