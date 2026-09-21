@@ -8,5 +8,5 @@ description: 2nd year, Data Science, Seventh
 hometown: Sunnyvale, CA
 askabout: Video games, bass guitar, running, japanese music
 foodemoji: 🍧
-food: Pho Cow Cali Express, Heytea
+food: SomiSomi, Heytea
 ---
