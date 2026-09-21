@@ -1,5 +1,5 @@
 ---
-title: Week 7 – Central Limit Theorem
+title: Week 7 – Hypothesis Testing
 weekNumber: 7
 days:
   - date: 2026-11-9

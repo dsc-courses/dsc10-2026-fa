@@ -1,5 +1,5 @@
 ---
-title: Week 8 – Hypothesis and Permutation Testing
+title: Week 8 – Permutation Testing
 weekNumber: 8
 days:
   - date: 2026-11-16
