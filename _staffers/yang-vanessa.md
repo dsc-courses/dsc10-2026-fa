@@ -2,11 +2,11 @@
 name: Vanessa Yang
 role: Tutor
 pronouns: she/her
-email: hay071@ucsd.edu
+email: 
 photo: assets/staff-images/yang-vanessa.jpg
 description: 2nd year, Business Data Science, Marshall
 hometown: Guangzhou, China
-askabout: Kpop, Desserts, Tennis, Skiing, Cats
+askabout: K-pop, desserts, tennis, skiing, cats
 foodemoji: 🍦
 food: Salt and Straw, Easy Does It, Robataya Oton
 ---
