@@ -2,11 +2,11 @@
 name: Yagna Chilukuri
 role: Tutor
 pronouns: she/her
-email: ychilukuri@ucsd.edu
+email:
 photo: assets/staff-images/chilukuri-yagna.jpg
-description: 3rd year, Data Science & Global Health, Revelle
+description: 3rd year, Data Science & Public Health, Revelle
 hometown: Temecula, CA
-askabout: Books, art, journalling, piano
+askabout: Books, art, journaling, piano
 foodemoji: 🍳
 food: Ike's, Somisomi, Charminar
 ---
