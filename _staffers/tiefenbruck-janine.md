@@ -8,7 +8,7 @@ photo: assets/staff-images/tiefenbruck-janine.jpg
 lecture: (A) MWF 10-10:50AM, (B) MWF 11-11:50AM in <a href="https://map.concept3d.com/?id=1005#!m/761769?share">PODEM 1A19</a>
 description: PhD, Mathematics, UCSD
 hometown: Wayne, NJ
-askabout: Baking projects, magic puzzles, grocery store bargains, spy novels, LEGO flowers
+askabout: Kinusaiga, mandala rock painting, UCSD Women's Basketball, baking, magic puzzles
 foodemoji: 🥐
 food: Wayfarer Bread & Pastry, Din Tai Fung, Taco Stand, Catania
 ---
