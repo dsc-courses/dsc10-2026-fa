@@ -2,7 +2,6 @@
 name: Jordan Chen 
 role: Tutor
 pronouns: he/him
-email: joc115@ucsd.edu
 photo: assets\staff-images\chen-jordan.jpg
 description: 2nd year, Math CS, Warren
 hometown: Jericho, NY
