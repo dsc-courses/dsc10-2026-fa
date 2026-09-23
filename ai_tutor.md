@@ -6,9 +6,14 @@ description: >-
 nav_order: 8
 ---
 
-
 # 🤖 AI Tutor
 {:.no_toc}
+
+## Table of contents
+{:.no_toc}
+
+1. TOC
+{:toc}
 
 ## What is the AI Tutor?
 
@@ -35,7 +40,7 @@ The key difference is how much help you get and how it's delivered.
 
 Both modes are useful but they serve different purposes.
 
-## When should I use each mode?
+### When should I use each mode?
 
 There isn't a single "right" mode. It all depends on your goals.
 
@@ -53,7 +58,7 @@ In general, we recommend Tutor Mode when you're working through assignments, bec
 
 Ultimately, you are responsible for your own learning. Choose the mode that best supports your understanding!
 
-## What can the AI Tutor do?
+### What can the AI Tutor do?
 
 In both modes, the AI tutor:
 
@@ -65,7 +70,9 @@ Additionally, Tutor Mode can also retrieve lecture or exam practice problems for
 
 <center><img src="../assets/images/img3.png" width="80%" alt="AI Tutor debugging example"></center>
 
-The AI Tutor is a new resource for this class, and it is a work in progress. Occasionally, it may suggest code or ideas that go beyond what is covered in DSC 10. If that happens, please let us know!
+The AI Tutor is a new resource for this class, and it is an evolving tool. As we continue to improve it, you may notice features appearing, changing, or disappearing over time. We are actively experimenting to make the tutor more helpful for your learning.
+
+Occasionally, the AI Tutor may suggest code or ideas that go beyond what is covered in DSC 10. If that happens, please let us know!
 
 ## Research 
 
@@ -114,9 +121,6 @@ Your privacy is important to us.
 If you have questions about these studies or your rights as a participant,
 please contact Sam Lau: lau@ucsd.edu.
 
-## Experimental Features
-
-The AI Tutor is an evolving tool. As we continue to improve it, you may notice features appearing, changing, or disappearing over time. We are actively experimenting to make the tutor more helpful for your learning.
 
 ## Final Note
 
