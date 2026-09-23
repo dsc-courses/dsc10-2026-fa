@@ -156,12 +156,12 @@ Your primary motivation when interacting with course staff should be
 
 ## 🚦 Getting Started
 
-Make sure to complete the four items listed below by **Thursday, April 2nd at
+Make sure to complete the four items listed below by **Tuesday, September 29th at
 11:59PM**. If you join the course late, these items are due at 11:59PM the day
 after you join the class.
 
-1. Join [Campuswire][campuswirejoin] (join code: 6479).
-2. Check if you can access [Gradescope][gradescope]. If not, send a private message to the instructional staff on Campuswire with your name, PID, and email address, so that we can add you and you can submit assignments.
+1. Join [Campuswire][campuswirejoin] (join code: 4942).
+2. Check if you can access [Gradescope][gradescope]. If not, make a private post on Campuswire with your name, Triton Student Number, and email address, so that we can add you and you can submit assignments.
 3. Read the syllabus and course website and complete the [Syllabus Check][syllabuscheck].
 4. Fill out the [Welcome Survey][welcome].
 
@@ -178,13 +178,12 @@ additional platforms that you'll need to access:
 
 - **Campuswire:** We'll be using Campuswire as our course message and
   discussion board. More details are in the [Communication](#-communication)
-  section below. If you didn't already get an invitation, [join here][campuswirejoin] (join code: 6479).
+  section below. If you didn't already get an invitation, [join here][campuswirejoin] (join code: 4942).
 
 - **Gradescope:** You'll submit all assignments and exams to
   [Gradescope][gradescope]. This is where all of your grades will live as well.
   You will be automatically added to Gradescope about 24 hours after enrolling
-  in the course. If you need to submit assignments before then, please send a
-  private message to the instructional staff on Campuswire with your name, PID,
+  in the course. If you need to submit assignments before then, please make a private post on Campuswire with your name, Triton Student Number,
   and email address.
 
 - **DataHub:** Assignments in this course will involve programming in Python.
@@ -222,14 +221,15 @@ We'll release solutions to the Pretest after the due date, and you are highly en
 
 ## 💬 Communication
 
-This quarter, we’ll be using [Campuswire][campuswirejoin] (join code: 6479) as our course message board.
+This quarter, we’ll be using [Campuswire][campuswirejoin] (join code: 4942) as our course message board.
 
 If you have a question about anything to do with the course — if you’re stuck
 on a problem, want clarification on the logistics, or just have a general
 question about data science — you can make a post on Campuswire. If your post
 includes any part of your solution to a problem (e.g. code), please make your
 post private; otherwise, please make your post public so that other students
-can benefit from the interaction. You can also post anonymously if you prefer.
+can benefit from the interaction. You can also post anonymously if you prefer. Please avoid directly messaging staff members, and post in the main course feed instead.
+
 Course staff will regularly check Campuswire and try to answer any questions
 that you have. You’re also encouraged to answer a question asked by another
 student if you feel that you know the answer – this is a great way to
@@ -268,7 +268,7 @@ assignment such that all the tests pass, you'll get a perfect score!
 To submit a lab, follow the instructions in the assignment to upload your
 notebook to Gradescope, which will run automated tests and assign your score.
 You should verify that all of your test cases pass on Gradescope **before the
-deadline**. Lab assignments will usually be due on Thursdays at 11:59PM,
+deadline**. Lab assignments will usually be due on Tuesdays at 11:59PM,
 though you should refer to the [homepage of this website](..) for the most up-to-date schedule. We will
 release lab assignments roughly a week before they're due. **Your lowest lab score
 is dropped from your grade calculation at the end of the quarter.**
@@ -302,7 +302,7 @@ submission, this only means that you've passed the formatting tests, not the
 hidden correctness tests that determine your score.
 
 To submit a homework, follow the instructions in the assignment to upload your
-notebook to Gradescope. Homeworks will usually be due on Mondays at
+notebook to Gradescope. Homeworks will usually be due on Thursdays at
 11:59PM, though you should refer to the [homepage of this website](..) for the most up-to-date schedule.
 We will release homework assignments roughly a week before they're
 due. **Your lowest homework score
@@ -348,7 +348,7 @@ and solve the problem before the deadline.
 It may take some time for Gradescope's autograder to grade your submission.
 You are encouraged to submit with enough time to see the output of the autograder before the 11:59PM deadline,
 as it may alert you to a problem you need to fix. However, if you submit before
-11:59PM and the autograder finishes running after 11:59PM, your assigment will still be
+11:59PM and the autograder finishes running after 11:59PM, your assignment will still be
 considered on time.
 
 After submitting, check that you got a confirmation email
@@ -425,8 +425,8 @@ Exams and quizzes are designed to test your understanding of course material, th
 
 This class has one Midterm Exam and one Final Exam:
 
-- Midterm Exam: Friday, May 1st, **during your enrolled lecture slot**.
-- Final Exam: Saturday, June 6th from 3PM to 6PM, in PCYNH 106.
+- Midterm Exam: Monday, October 26th, **during your enrolled lecture slot**.
+- Final Exam: Saturday, December 5th from 3PM to 6PM.
 
 Exams are cumulative, though the Final Exam will emphasize material after the Midterm Exam. Both exams will be held **in-person and on-paper**. You'll be allowed to use one 8.5 by 11 inch page of double-sided handwritten notes, but no calculators, computers, or other resources.
 
@@ -438,12 +438,12 @@ Quizzes are designed to help you get more practice solving problems on-paper wit
 
 There are four quizzes throughout the quarter, administered during your [assigned quiz session](#-quiz-sessions) on the following dates:
 
-- Quiz 1: Wednesday, April 15th
-- Quiz 2: Wednesday, April 22nd
-- Quiz 3: Wednesday, May 20th
-- Quiz 4: Wednesday, May 27th
+- Quiz 1: Friday, October 9th
+- Quiz 2: Friday, October 16th
+- Quiz 3: Friday, November 6th
+- Quiz 4: Friday, November 20th
 
-We will count only your two highest quiz scores towards your grade. In other words, we will drop your lowest two quiz scores.
+We will count only your three highest quiz scores towards your grade. In other words, we will drop your lowest quiz score.
 
 Quizzes are designed to give you low-stakes opportunities to practice solving problems on paper, with room for failure. You don't need to do well on every quiz to do well in the course.
 
@@ -459,8 +459,8 @@ schedule. Please refer to the [homepage of this website](..) for the most up-to-
 
 | | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** |
 | **morning** | Lecture | | Lecture | | Lecture |
-| **afternoon** | Discussion | | <b style="color:#B30011">Quiz</b> | | |
-| **evening** | <b style="color:#B30011">Homework due</b> | | | <b style="color:#B30011">Lab due</b> | |
+| **afternoon** | Discussion | Discussion | | | <b style="color:#B30011">Quiz</b> |
+| **evening** | | <b style="color:#B30011">Lab due</b>  | |<b style="color:#B30011">Homework due</b>| |
 
 ---
 
@@ -695,7 +695,7 @@ Sorry, but instructors are not able to enroll students in classes. There is noth
 
 Waitlisted to students may attend lecture and discussion, space-permitting, and can also watch podcast recordings. You can (and should) still submit assignments if you are on the waitlist. If you get off the waitlist and are able to join the class, you will not get any extensions on past-due assignments.
 
-Waitlisted students should have access to DataHub to work on assignments. You may need to add yourself to some course tools; see the [Getting Started](#-getting-started) section of the syllabus. If you need access to Gradescope, send a private message to the instructional staff on Campuswire with your name, PID, and email address.
+Waitlisted students should have access to DataHub to work on assignments. You may need to add yourself to some course tools; see the [Getting Started](#-getting-started) section of the syllabus. If you need access to Gradescope, make a private post on Campuswire with your name, Triton Student Number, and email address.
 
 **What are my chances of getting off the waitlist?**
 
