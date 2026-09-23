@@ -29,7 +29,11 @@ nav_order: 2
 [syllabuscheck]: {{ site.urls.syllabuscheck }}
 [welcome]: {{ site.urls.welcome}}
 [pretest]: {{site.urls.pretest}}
-[classroom]: {{site.urls.classroom}}
+[hss]: {{site.urls.hss}}
+[wlh]: {{site.urls.wlh}}
+[center]: {{site.urls.center}}
+[ridgewalk]: {{site.urls.ridgewalk}}
+
 
 ## 🧐 About
 
@@ -52,7 +56,7 @@ its specific content.
 
 ### Acknowledgements
 
-The contents of this course come from UC Berkeley's Data 8 course, created by Ani Adhikari, John DeNero, and many others. This offering builds off of earlier offerings of DSC 10 by Justin Eldridge, Suraj Rampure, Janine Tiefenbruck, and many others. Thanks to all those who have a played a role in shaping this amazing course!
+The contents of this course come from UC Berkeley's Data 8 course, created by Ani Adhikari, John DeNero, and many others. This offering builds off of earlier offerings of DSC 10 by Peter Chi, Justin Eldridge, Sam Lau, Suraj Rampure, Janine Tiefenbruck, and many others. Thanks to all those who have a played a role in shaping this amazing course!
 
 ---
 
@@ -60,46 +64,60 @@ The contents of this course come from UC Berkeley's Data 8 course, created by An
 
 ### Lecture
 
-There are two lecture sections:
+There are four lecture sections:
 
-- Section A: MWF 10-10:50AM in [PODEM 1A19][classroom].
-- Section B: MWF 11-11:50AM in [PODEM 1A19][classroom].
+- Lecture 001-000: MWF 10-10:50AM in [WLH 2005][wlh].
+- Lecture 002-000: MWF 9-9:50AM in [HSS 1330][hss].
+- Lecture 003-000: MWF 11-11:50AM in [WLH 2005][wlh].
+- Lecture 004-000: MWF 10-10:50AM in [HSS 1330][hss].
 
-Lecture is meant to introduce you to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
+Lecture is meant to introduce you to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion. Attending lecture regularly is the best way to learn the material and succeed in the course.
 
 You can attend any lecture section, but if space fills up, priority will be given to students officially enrolled in that section. For the Midterm Exam, you must attend the lecture section in which you are officially enrolled.
 
 **Lectures will be podcasted** (UCSD's term for "recorded"). Podcast recordings will be available online at [podcast.ucsd.edu][podcasts] within a few hours.
 
+### Pods
+
+Outside of lecture, this class has two additional hours designated for this class in the schedule of classes. One of these hours, on Monday or Tuesday, will be used for discussion sections. The other hour, on Friday, is designated as a laboratory section, and will be used for both quizzes and small group (pod) meetings. 
+
+Pods will be groups of 20 to 30 students, mentored by a course tutor. You will be assigned to a pod based on the lecture, discussion, and laboratory sections in which you are officially enrolled. You and your fellow pod members will therefore lecture, discussion, and pod meetings together. Pods are meant to give you the experience of being in a "microclass" within a much larger course, and to provide you with mentorship from a tutor. We hope that pods will help you find a community of study buddies and friends!
+
+
 ### Discussion
 
-There are two discussion sections:
+There are four discussion sections:
 
-- Section A: Monday 3-3:50PM in [PODEM 1A20][classroom].
-- Section B: Monday 4-4:50PM in [PODEM 1A20][classroom].
+- Discussion 001-001: Monday 2-2:50PM in [WLH 2005][wlh].
+- Discussion 002-001: Monday 2-2:50PM in [Center 216][center].
+- Discussion 003-001: Tuesday 5-5:50PM in [RWAC 0121][ridgewalk].
+- Discussion 004-001: Monday 4-4:50PM in [Center 216][center].
 
-Discussions will start in Week 1 on Monday, March 30th. The first discussion includes some useful instruction and tips for using Jupyter notebooks and Datahub, the programming tools we'll be using in this course. It should be helpful to get you set up and comfortable with the technology you'll be using all quarter.
+Discussions will start in Week 1 on Monday, September 28th. The first discussion includes some useful instruction and tips for using Jupyter notebooks and Datahub, the programming tools we'll be using in this course. It should be helpful to get you set up and comfortable with the technology you'll be using all quarter.
 
-Subsequent discussion sections will be focused on quiz and exam preparation. Students will work through problems from past DSC 10 quizzes and exams and be able to get help from course staff. Attending discussion and working through practice problems gives you direct experience with the types of questions you will see on quizzes and exams, which are typically the hardest parts of the course.
+Subsequent discussion sections will be focused on quiz and exam preparation. Working in groups with 2 to 4 members, students will solve problems from past DSC 10 quizzes and exams and be able to get help from course staff. Attending discussion and working through practice problems gives you direct experience with the types of questions you will see on quizzes and exams, which are typically the hardest parts of the course.
 
 **Discussion sections will not be podcasted.** The purpose of discussion is to give you hands-on problem-solving experience, so you really need to attend and participate to reap the benefits.
 
-### Quiz Sessions
+Discussion attendance counts towards your participation grade. In order to get credit, you must attend the discussion section in which you are officially enrolled, check in with your designated tutor, and submit a copy of your group's work to Gradescope by Tuesday at 11:59PM. You must work in a group of size 2-4, and only one member of your group should submit the work, indicating the names of all group members when prompted. We will not grade you on the correctness of your answers; you will get full credit if you attempted the problems and showed your work.
 
-On four Wednesdays throughout the quarter, we will have short 20-minute quizzes. Quizzes will be held in-person during the time reserved for this class in the schedule of classes.
+### Laboratory Sections
 
-Your quiz time is determined by your enrolled lecture section and the first letter of your last name:
+There are six laboratory sections associated with this course:
 
-- Quiz Session 1, Wednesday 3-3:20PM in [PODEM 1A20][classroom]:
-  - Section A, last name A-L
-- Quiz Session 2, Wednesday 3:30-3:50PM in [PODEM 1A20][classroom]:
-  - Section A, last name M-Z
-- Quiz Session 3, Wednesday 4-4:20PM in [PODEM 1A20][classroom]:
-  - Section B, last name A-L
-- Quiz Session 4, Wednesday 4:30-4:50PM in [PODEM 1A20][classroom]:
-  - Section B, last name M-Z
+- Laboratory 001-001: Friday 3-3:50PM in [Center 222][center].
+- Laboratory 002-001: Friday 6-6:50PM in [Center 214][center].
+- Laboratory 003-001: Friday 4-4:50PM in [Center 222][center].
+- Laboratory 004-001: Friday 8-8:50PM in [Center 214][center].
+- Laboratory 001-002: Friday 5-5:50PM in [Center 214][center].
+- Laboratory 003-002: Friday 7-7:50PM in [Center 214][center].
 
-If you have a conflict with your assigned quiz session, you can let us know on the [Welcome Survey][welcome] and we will do our best to accommodate you. You must be able to attend at least one of the quiz sessions in order to take this class.
+We will use the laboratory sections for a variety of different things:
+- On four days, we will have short 20-minute quizzes. 
+- On four other days, you will meet with your pod and mentor for 50 minutes. Pod meetings will be purely social and are designed to help you make connections with classmates and your mentor, not to work on any specific course-related material. 
+- Once at the beginning of the quarter, and once at the end of the quarter, we will use the laboratory section to administer pre- and post-course knowledge assessments. These will be used for [research]() and will not count for your grade.
+
+You must attend the laboratory section in which you are officially enrolled.  If you have a conflict, you must resolve the conflict in order to take the course this quarter.
 
 ### Office Hours
 
