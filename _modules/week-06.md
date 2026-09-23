@@ -1,5 +1,5 @@
 ---
-title: Week 6 – Central Limit Theorem
+title: Week 6 – Confidence Intervals and the Normal Distribution
 weekNumber: 6
 days:
   - date: 2026-11-2

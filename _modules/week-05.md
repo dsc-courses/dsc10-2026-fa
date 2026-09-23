@@ -47,4 +47,7 @@ days:
           - name: CIT 13.3-13.4
             url: https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html
         keywords: interpreting CIs, robust vs. sensitive, center, standard deviation
+      - name: POD
+        type: quiz
+        title: Pod Meeting
 ---

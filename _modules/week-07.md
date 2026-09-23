@@ -1,5 +1,5 @@
 ---
-title: Week 7 – Hypothesis Testing
+title: Week 7 – Central Limit Theorem
 weekNumber: 7
 days:
   - date: 2026-11-9
@@ -47,4 +47,7 @@ days:
           - name: 11.4
             url: https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html
         keywords: fair or unfair coin, p-value, midterm exam scores, Alameda County jury, TVD
+      - name: POD
+        type: quiz
+        title: Pod Meeting
 ---

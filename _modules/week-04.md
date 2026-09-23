@@ -54,4 +54,7 @@ days:
           - name: CIT 10.0-10.4
             url: https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html
         keywords: probability vs. empirical distribution, SRS, .sample, parameter, statistic
+      - name: POD
+        type: quiz
+        title: Pod Meeting
 ---

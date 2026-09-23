@@ -56,4 +56,7 @@ days:
           - name: BPD 9
             url: https://notes.dsc10.com/02-data_sets/accessing.html
         keywords: array methods, np.arange, .read_csv, .get, .assign, .sort_values, .iloc, .loc, index
+      - name: POD
+        type: quiz
+        title: Pod Meeting
 ---

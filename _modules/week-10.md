@@ -39,7 +39,7 @@ days:
     events:
       - name: REV
         type: lecture
-        title: Review, Conclusion, and Career Services
+        title: Review, Conclusion
   - date: 2026-12-5
     events:
       - name: EXAM
