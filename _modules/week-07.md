@@ -20,10 +20,18 @@ days:
         url:
   - date: 2026-11-10
     events:
+      - name: DISC 7
+        type: disc
+        title: Standardization and the Normal Distribution
+        url:
       - name: LAB 5
         type: lab
         title: Variability and the Normal Distribution
         url:
+      - name: GROUP
+        type: disc
+        title: Groupwork from Discussion 7
+        url: https://www.gradescope.com/courses/1403047
   - date: 2026-11-11
     events:
       - markdown_content: <b>No Lecture (Veteran's Day 🇺🇸)</b>

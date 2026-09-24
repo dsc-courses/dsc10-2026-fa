@@ -20,10 +20,18 @@ days:
         url:
   - date: 2026-12-1
     events:
+      - name: DISC 10
+        type: disc
+        title: Regression
+        url:
       - name: LAB 7
         type: lab
         title: Regression
         url:
+      - name: GROUP
+        type: disc
+        title: Groupwork from Discussion 10
+        url: https://www.gradescope.com/courses/1403047
   - date: 2026-12-2
     events:
       - name: REV

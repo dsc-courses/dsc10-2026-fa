@@ -13,9 +13,9 @@ days:
         url:
   - date: 2026-10-27
     events:
-      - name: SUR
-        type: survey
-        title: Mid-Quarter Survey
+      - name: DISC 5
+        type: disc
+        title: Midterm Solutions
         url:
   - date: 2026-10-28
     events:

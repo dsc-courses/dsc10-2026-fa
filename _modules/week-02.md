@@ -20,10 +20,18 @@ days:
         url:
   - date: 2026-10-6
     events:
+      - name: DISC 2
+        type: disc
+        title: Arrays and DataFrames
+        url:
       - name: LAB 1
         type: lab
         title: Arrays and DataFrames
         url:
+      - name: GROUP
+        type: disc
+        title: Groupwork from Discussion 2
+        url: https://www.gradescope.com/courses/1403047
   - date: 2026-10-7
     events:
       - name: LEC 6

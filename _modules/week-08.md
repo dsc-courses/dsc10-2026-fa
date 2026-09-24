@@ -20,10 +20,18 @@ days:
         url:
   - date: 2026-11-17
     events:
+      - name: DISC 8
+        type: disc
+        title: The Central Limit Theorem and Hypothesis Testing
+        url:
       - name: LAB 6
         type: lab
         title: Hypothesis Testing
         url:
+      - name: GROUP
+        type: disc
+        title: Groupwork from Discussion 8
+        url: https://www.gradescope.com/courses/1403047
   - date: 2026-11-18
     events:
       - name: LEC 22

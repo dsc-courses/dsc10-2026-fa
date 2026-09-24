@@ -22,10 +22,18 @@ days:
         url:
   - date: 2026-10-13
     events:
+      - name: DISC 3
+        type: disc
+        title: Querying, Grouping, and Plotting
+        url:
       - name: LAB 2
         type: lab
         title: Data Visualizations and Functions
         url:
+      - name: GROUP
+        type: disc
+        title: Groupwork from Discussion 3
+        url: https://www.gradescope.com/courses/1403047
   - date: 2026-10-14
     events:
       - name: LEC 9

@@ -20,10 +20,18 @@ days:
         url:
   - date: 2026-11-3
     events:
+      - name: DISC 6
+        type: disc
+        title: Sampling, Bootstrapping, and Confidence Intervals
+        url:
       - name: LAB 4
         type: lab
         title: Simulation, Sampling, and Bootstrapping
         url:
+      - name: GROUP
+        type: disc
+        title: Groupwork from Discussion 6
+        url: https://www.gradescope.com/courses/1403047
   - date: 2026-11-4
     events:
       - name: LEC 17

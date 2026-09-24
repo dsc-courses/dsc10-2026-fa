@@ -18,6 +18,16 @@ days:
         type: disc
         title: TVD and Permutation Testing
         url:
+  - date: 2026-11-24
+    events:
+      - name: DISC 9
+        type: disc
+        title: TVD and Permutation Testing
+        url:
+      - name: GROUP
+        type: disc
+        title: Groupwork from Discussion 9
+        url: https://www.gradescope.com/courses/1403047
   - date: 2026-11-25
     events:
       - markdown_content: <b>No Lecture</b>

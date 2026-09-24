@@ -20,10 +20,18 @@ days:
         url:
   - date: 2026-10-20
     events:
+      - name: DISC 4
+        type: disc
+        title: Functions, DataFrames, and Control Flow
+        url:
       - name: LAB 3
         type: lab
         title: DataFrames, Control Flow, and Probability
         url:
+      - name: GROUP
+        type: disc
+        title: Groupwork from Discussion 4
+        url: https://www.gradescope.com/courses/1403047
   - date: 2026-10-21
     events:
       - name: LEC 12
@@ -41,6 +49,10 @@ days:
       - name: HW 3
         type: hw
         title: DataFrames, Control Flow, and Probability
+        url:
+      - name: SUR
+        type: survey
+        title: Mid-Quarter Survey
         url:
   - date: 2026-10-23
     events:
