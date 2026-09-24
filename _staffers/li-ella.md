@@ -2,7 +2,7 @@
 name: Xinyuan (Ella) Li
 role: Tutor
 pronouns: she/her
-email: ell024@ucsd.edu
+email:
 photo: assets/staff-images/li-ella.jpg
 description: 3nd year, Data Science & Business Economics, Warren
 hometown: Nanjing, China
