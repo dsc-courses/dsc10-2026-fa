@@ -1,5 +1,5 @@
 ---
-name: Evelyn(Woojoo) Na
+name: Evelyn (Woojoo) Na
 role: Tutor
 pronouns: she/her
 photo: assets/staff-images/na-evelyn.jpg
