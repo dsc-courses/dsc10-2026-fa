@@ -23,7 +23,11 @@ days:
       - name: SUR
         type: survey
         title: Welcome Survey
-        url: https://docs.google.com/forms/d/e/1FAIpQLScZQ8v8sLWv27L0fklV3iMHQnsHkjn82sbP-xVFDXE0zu9ngQ/viewform?usp=header
+        url: https://forms.gle/LNYYFFY4N5M2PEep6
+      - name: SYL
+        type: survey
+        title: Syllabus Check
+        url: https://forms.gle/oaV9bUWsafJ6RRMJ8
   - date: 2026-9-30
     events:
       - name: LEC 3
