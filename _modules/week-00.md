@@ -7,7 +7,7 @@ days:
       - name: LEC 1
         type: lecture
         title: Introduction
-        url:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=lectures/lec01/lec01.ipynb
         html: resources/lectures/lec01/lec01.html
         podcast:
         readings:
