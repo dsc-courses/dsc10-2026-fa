@@ -92,7 +92,13 @@ Subsequent discussion sections will be focused on quiz and exam preparation. Wor
 
 **Discussion sections will not be podcasted.** The purpose of discussion is to give you hands-on problem-solving experience, so you really need to attend and participate to reap the benefits.
 
-Discussion attendance counts towards your participation grade. In order to get credit, you must attend the discussion section in which you are officially enrolled, check in with your designated tutor, and submit a copy of your group's work to Gradescope by Tuesday at 11:59PM. You must work in a group of size 2-4, and only one member of your group should submit the work, indicating the names of all group members when prompted. We will not grade you on the correctness of your answers; you will get full credit if you attempted the problems and showed your work.
+Discussion attendance counts towards your participation grade. In order to get credit, you must:
+
+- Attend the discussion section in which you are officially enrolled
+- Check in with your designated tutor
+- Submit a copy of your group's work to Gradescope by Tuesday at 11:59PM. 
+
+You must work in a group of size 2-4, and only one member of your group should submit the work, indicating the names of all group members when prompted. We will not grade you on the correctness of your answers; you will get full credit if you attempted the problems and showed your work.
 
 ### Laboratory Sections
 
