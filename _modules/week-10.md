@@ -40,7 +40,7 @@ days:
       - name: REV
         type: lecture
         title: Review, Conclusion
-      - name: XTRA
+      - name: EXTRA
         type: quiz
         title: Knowledge Assessment for Research Study (+1% Extra Credit)
   - date: 2026-12-5

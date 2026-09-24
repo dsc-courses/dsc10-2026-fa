@@ -487,7 +487,7 @@ There will be 17 participation points available:
 
 There will be two opportunities for extra credit, both of which are associated with a [research study](../ai_tutor)  about how students learn. 
 
-You can earn an extra 1% on your overall course average by completing a pre-course knowledge assessment in your Week 0 laboratory section and completing an online survey. You must complete BOTH components to earn the extra credit.
+You can earn an extra 1% on your overall course average by completing a pre-course knowledge assessment in your Week 0 laboratory section, as well as an online survey. You must complete BOTH components to earn the extra credit.
 
 Similarly, at the end of the quarter, you can earn an additional 1% of extra credit by completing a post-course knowledge assessment in your Week 10 laboratory section, as well as an online survey. Again, you must complete BOTH components to earn the extra credit.
 
