@@ -39,7 +39,7 @@ days:
     events:
       - name: REV
         type: lecture
-        title: Review, Conclusion
+        title: Review, Conclusion, Career Services
       - name: EXTRA
         type: quiz
         title: Knowledge Assessment for Research Study (+1% Extra Credit)
