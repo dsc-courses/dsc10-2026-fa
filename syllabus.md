@@ -77,14 +77,7 @@ You can attend any lecture section, but if space fills up, priority will be give
 
 **Lectures will be podcasted** (UCSD's term for "recorded"). Podcast recordings will be available online at [podcast.ucsd.edu][podcasts] within a few hours.
 
-### Pods
-
-Outside of lecture, this class has two additional hours designated for this class in the schedule of classes. One of these hours, on Monday or Tuesday, will be used for discussion sections. The other hour, on Friday, is designated as a laboratory section, and will be used for both quizzes and small group (pod) meetings. 
-
-Pods will be groups of 20 to 30 students, mentored by a course tutor. You will be assigned to a pod based on the lecture, discussion, and laboratory sections in which you are officially enrolled. You and your fellow pod members will therefore lecture, discussion, and pod meetings together. Pods are meant to give you the experience of being in a "microclass" within a much larger course, and to provide you with mentorship from a tutor. We hope that pods will help you find a community of study buddies and friends!
-
-
-### Discussion
+### Discussion Sections
 
 There are four discussion sections:
 
@@ -103,7 +96,7 @@ Discussion attendance counts towards your participation grade. In order to get c
 
 ### Laboratory Sections
 
-There are six laboratory sections associated with this course:
+There are six laboratory sections:
 
 - Laboratory 001-001: Friday 3-3:50PM in [Center 222][center].
 - Laboratory 002-001: Friday 6-6:50PM in [Center 214][center].
@@ -114,8 +107,8 @@ There are six laboratory sections associated with this course:
 
 We will use the laboratory sections for a variety of different things:
 - On four days, we will have short 20-minute quizzes. 
-- On four other days, you will meet with your pod and mentor for 50 minutes. Pod meetings will be purely social and are designed to help you make connections with classmates and your mentor, not to work on any specific course-related material. 
-- Once at the beginning of the quarter, and once at the end of the quarter, we will use the laboratory section to administer pre- and post-course knowledge assessments. These will be used for [research]() and will not count for your grade.
+- On four other days, you will meet with your "pod" for 50 minutes. Pods will be groups of 20 to 30 students, led by a course tutor. Pods are meant to give you the experience of being in a "microclass" within a much larger course, and to provide you with mentorship from a tutor. Pod meetings will be purely social and are designed to help you make connections with classmates and your mentor, not to work on any specific course-related material. We hope that pods will help you find a community of study buddies and friends!
+- Once at the beginning of the quarter, and once at the end of the quarter, we will use the laboratory section to administer pre- and post-course knowledge assessments. These will be used for [research](../ai_tutor) and will not count for your grade.
 
 You must attend the laboratory section in which you are officially enrolled.  If you have a conflict, you must resolve the conflict in order to take the course this quarter.
 
@@ -276,6 +269,9 @@ is dropped from your grade calculation at the end of the quarter.**
 Labs must be completed and submitted individually, but we encourage you to
 discuss high-level approaches with others. See the [Academic Integrity Policies](#-academic-integrity-policies) section
 for more details.
+
+{: .warning }
+**Despite having similar names, lab assignments are not related in any way to the Friday laboratory sections which will be used for quizzes and pod meetings.**
 
 ### Homework Assignments
 
@@ -466,15 +462,17 @@ schedule. Please refer to the [homepage of this website](..) for the most up-to-
 
 ## 🙋 Participation
 
-Actively participating in the course is highly beneficial to your learning. Engaging with the course material, the course staff, and your peers will set you up for success in this course and in other data science courses you may take in the future. A portion of your grade will be allocated towards participation.
+Actively participating in the course is highly beneficial to your learning. Engaging with the course material, the course staff, and your peers will set you up for success in this course and in other data science courses you may take in the future. A portion of your grade will be allocated towards participation, though you have the option to replace your participation score with your Final Exam score if you do better.
 
-There will be 4 participation points available:
+There will be 17 participation points available:
 
-- 2 points for the Pretest, graded for honest effort.
-- 1 point for scoring 80% or higher on the Syllabus Check.
-- 1 point for completing SETs (Student Evaluations of Teaching) and an internal End-Of-Quarter Survey.
+- 1 point for the Pretest, graded for honest effort.
+- 1 point for passing the Syllabus Check at 80% or higher.
+- 1 point for completing SETs (Student Evaluations of Teaching) and an internal End-Of-Quarter Survey. 
+- 1 point for attending each discussion section (10 points total).
+- 1 point for attending each pod meeting (4 points total).
 
-Your participation grade will be the number of points earned out of 4.
+**Score 12 points or higher for full participation credit.** If you earn fewer than 12 points, your participation grade will be the number of points earned out of 12. There is no extra credit for earning more than 12 points.
 
 ---
 
@@ -484,10 +482,10 @@ The table below shows how your mastery of class material will be assessed and
 how grades will be computed:
 
 | **Component** | **Weight** | **Notes** |
-| Participation | 3% | |
+| Participation | 10% | can be replaced with Final Exam score if higher|
 | Lab Assignments | 10% | drop lowest score |
-| Homework Assignments | 25% | drop lowest score |
-| Quizzes | 12% | drop lowest two scores |
+| Homework Assignments | 20% | drop lowest score |
+| Quizzes | 10% | drop lowest score|
 | Midterm Project | 10% | |
 | Midterm Exam | 10% | |
 | Final Project | 10% | |
@@ -646,7 +644,7 @@ If your assignment submission includes any content generated by an AI tool, it s
 
 ## 🤗 Support
 
-### Accomodations
+### Accommodations
 
 From the [Office for Students with Disabilities (OSD)](https://osd.ucsd.edu):
 
@@ -689,7 +687,7 @@ We will not use a #FinAid survey, but we will certify academic activity for any 
 
 **I am on the waitlist, but I really want to get into the course. Can you let me in?**
 
-Sorry, but instructors are not able to enroll students in classes. There is nothing we can do let you into the course.
+Sorry, but instructors are not able to book students in classes. There is nothing we can do let you into the course.
 
 **I am on the waitlist, so how can I keep up with the course?**
 
@@ -702,15 +700,14 @@ Waitlisted students should have access to DataHub to work on assignments. You ma
 The instructional staff is not equipped to answer this question. Many questions
 about enrollment are [answered
 here](https://datascience.ucsd.edu/current-students/enrolling-in-classes/). Please direct
-your questions about enrollment to DSC advising. You can send an email to
-[dscstudent@ucsd.edu](mailto:dscstudent@ucsd.edu), send a message through the
-Virtual Advising Center, or stop by drop-in advising hours. In short, seats in
+your questions about booking to [DSC Advising](https://datascience.ucsd.edu/current-students/academic-advising/), who you can contact through the
+Virtual Advising Center, or stop by for drop-in advising hours. In short, seats in
 the class open up when students drop the class, which can be hard to predict.
 
 **I have been added to Gradescope, Campuswire, and other course tools. Does
 this mean I am off the waitlist?**
 
 No. Students on the waitlist were added to all course tools, so they can
-complete assignments while they are on the waitlist. Check
-[WebReg](https://act.ucsd.edu/webreg2) if you are not sure of your enrollment
+complete assignments while they are on the waitlist. Check your booking record on 
+[TSS](https://tss.ucsd.edu/fiori) if you are not sure of your enrollment
 status.

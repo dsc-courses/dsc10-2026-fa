@@ -34,7 +34,7 @@ urls:
   cc: &cc 'http://cc.dsc10.com/'
   podcasts: &podcasts 'https://podcast.ucsd.edu/'
   syllabuscheck: &syllabuscheck 'https://forms.gle/NXvZ6peFo1NQUorP6'
-  welcome: &welcome 'https://forms.gle/HE1a1V7rvu5BCuSZ7'
+  welcome: &welcome 'https://forms.gle/LNYYFFY4N5M2PEep6'
   github: &github 'https://github.com/dsc-courses/dsc10-2026-fa'
   pretest: &pretest 'https://practice.dsc10.com/pretest/'
   hss: &hss 'https://arcg.is/11OKKi5' 
