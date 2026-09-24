@@ -20,6 +20,10 @@ days:
         url:
   - date: 2026-9-29
     events:
+      - name: DISC 1
+        type: disc
+        title: Getting Started with Jupyter Notebooks
+        url:
       - name: SUR
         type: survey
         title: Welcome Survey
@@ -28,6 +32,10 @@ days:
         type: survey
         title: Syllabus Check
         url: https://forms.gle/oaV9bUWsafJ6RRMJ8
+      - name: GROUP
+        type: disc
+        title: Groupwork from Discussion 1
+        url: https://www.gradescope.com/courses/1403047
   - date: 2026-9-30
     events:
       - name: LEC 3
