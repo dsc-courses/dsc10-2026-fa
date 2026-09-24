@@ -14,4 +14,7 @@ days:
           - name: CIT 1.0-1.3
             url: https://inferentialthinking.com/chapters/01/what-is-data-science.html
         keywords: data science, course structure, policies, syllabus, Little Women demo
+      - name: PRE
+        type: quiz
+        title: Pre-Course Knowledge Assessment for Research Study (+1% Extra Credit)
 ---
