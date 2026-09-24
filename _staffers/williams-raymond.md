@@ -4,7 +4,7 @@ role: Tutor
 pronouns: he/him
 email: 
 photo: assets/staff-images/williams-raymond.jpg
-description: 3rd year, Data Science, Revelle
+description: 1st year MS student, CSE
 hometown: Clovis, CA
 askabout: Clothes, movies, TV shows, dogs
 foodemoji: 🍲 
