@@ -6,7 +6,7 @@ email:
 photo: assets/staff-images/clougherty-coleman.jpg
 description: 3rd year, Data Science, Marshall
 hometown: Urbana, IL
-askabout: Movies, Basketball, Traveling
+askabout: Movies, basketball, traveling
 foodemoji: 🍕
 food: An's Hatmakers, Regents Pizzeria, Bonchon
 ---

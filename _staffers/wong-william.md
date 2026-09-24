@@ -6,7 +6,7 @@ email:
 photo: assets/staff-images/wong-william.jpg
 description: 2nd year, Data Science, Seventh
 hometown: Sunnyvale, CA
-askabout: Video games, bass guitar, running, japanese music
+askabout: Video games, bass guitar, running, Japanese music
 foodemoji: 🍧
 food: SomiSomi, Heytea
 ---
