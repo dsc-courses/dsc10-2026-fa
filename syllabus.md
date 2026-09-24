@@ -92,13 +92,14 @@ Subsequent discussion sections will be focused on quiz and exam preparation. Wor
 
 **Discussion sections will not be podcasted.** The purpose of discussion is to give you hands-on problem-solving experience, so you really need to attend and participate to reap the benefits.
 
-Discussion attendance counts towards your participation grade. In order to get credit, you must:
+Discussion attendance counts towards your participation grade. In order to get credit, you must complete all of the following:
 
-- Attend the discussion section in which you are officially enrolled
-- Check in with your designated tutor
-- Submit a copy of your group's work to Gradescope by Tuesday at 11:59PM
+- Attend the discussion section in which you are officially enrolled.
+- Check in with your designated tutor for attendance.
+- Work in a group of size 2-4 students.
+- Submit a copy of your group's work to Gradescope by Tuesday at 11:59PM.
 
-You must work in a group of size 2-4, and only one member of your group should submit the work, indicating the names of all group members when prompted. We will not grade you on the correctness of your answers; you will get full credit if you attempted the problems and showed your work.
+Only one member of your group should submit the work, indicating the names of all group members when prompted. We will not grade you on the correctness of your answers; you will get full credit if you attempted the problems and showed your work.
 
 ### Laboratory Sections
 
@@ -114,7 +115,7 @@ There are six laboratory sections:
 We will use the laboratory sections for a variety of different things:
 - On four days, we will have short 20-minute quizzes. 
 - On four other days, you will meet with your "pod" for 50 minutes. Pods will be groups of 20 to 30 students, led by a course tutor. Pods are meant to give you the experience of being in a "microclass" within a much larger course, and to provide you with mentorship from a tutor. Pod meetings will be purely social and are designed to help you make connections with classmates and your mentor, not to work on any specific course-related material. We hope that pods will help you find a community of study buddies and friends!
-- Once at the beginning of the quarter, and once at the end of the quarter, we will use the laboratory section to administer pre- and post-course knowledge assessments. These will be used for [research](../ai_tutor) and will not count for your grade.
+- Once at the beginning of the quarter, and once at the end of the quarter, we will use the laboratory section to administer pre- and post-course knowledge assessments. These will be used for a [research study](../ai_tutor) and will not count for your grade.
 
 You must attend the laboratory section in which you are officially enrolled.  If you have a conflict, you must resolve the conflict in order to take the course this quarter.
 
@@ -445,7 +446,7 @@ There are four quizzes throughout the quarter, administered during your [assigne
 - Quiz 3: Friday, November 6th
 - Quiz 4: Friday, November 20th
 
-We will count only your three highest quiz scores towards your grade. In other words, we will drop your lowest quiz score.
+We will count only your two highest quiz scores towards your grade. In other words, we will drop your two lowest quiz scores.
 
 Quizzes are designed to give you low-stakes opportunities to practice solving problems on paper, with room for failure. You don't need to do well on every quiz to do well in the course.
 
@@ -475,10 +476,20 @@ There will be 17 participation points available:
 - 1 point for the Pretest, graded for honest effort.
 - 1 point for passing the Syllabus Check at 80% or higher.
 - 1 point for completing SETs (Student Evaluations of Teaching) and an internal End-Of-Quarter Survey. 
-- 1 point for each discussion section attendance and submission of groupwork (10 points total).
+- 1 point for attending and submitting groupwork for each discussion section (10 points total).
 - 1 point for attending each pod meeting (4 points total).
 
 **Score 12 points or higher for full participation credit.** If you earn fewer than 12 points, your participation grade will be the number of points earned out of 12. There is no extra credit for earning more than 12 points.
+
+---
+
+## ⭐ Extra Credit
+
+There will be two opportunities for extra credit, both of which are associated with a [research study](../ai_tutor)  about how students learn. 
+
+You can earn an extra 1% on your overall course average by completing a pre-course knowledge assessment in your Week 0 laboratory section and completing an online survey. You must complete BOTH components to earn the extra credit.
+
+Similarly, at the end of the quarter, you can earn an additional 1% of extra credit by completing a post-course knowledge assessment in your Week 10 laboratory section, as well as an online survey. Again, you must complete BOTH components to earn the extra credit.
 
 ---
 
@@ -491,11 +502,12 @@ how grades will be computed:
 | Participation | 10% | can be replaced with Final Exam score if higher|
 | Lab Assignments | 10% | drop lowest score |
 | Homework Assignments | 20% | drop lowest score |
-| Quizzes | 10% | drop lowest score|
+| Quizzes | 10% | drop two lowest scores|
 | Midterm Project | 10% | |
 | Midterm Exam | 10% | |
 | Final Project | 10% | |
 | Final Exam | 20% | |
+| Extra Credit | +2% | |
 
 Note that in each category, all assignments in that category will be worth the same amount,
 regardless of the number of points they are graded out of.
