@@ -16,7 +16,7 @@ days:
         keywords: regression line in original units, outliers, errors, RMSE, best fit, least squares
       - name: DISC 9
         type: disc
-        title: TVD & Permutation Testing
+        title: TVD and Permutation Testing
         url:
   - date: 2026-11-25
     events:

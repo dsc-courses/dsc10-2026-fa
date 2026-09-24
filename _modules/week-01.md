@@ -32,7 +32,7 @@ days:
     events:
       - name: LEC 3
         type: lecture
-        title: Strings, Lists, and Arrays
+        title: Strings and Arrays
         url:
         html:
         podcast:
@@ -48,6 +48,10 @@ days:
         type: lab
         title: Expressions and Data Types
         url:
+      - name: PRE
+        type: survey
+        title: Pretest
+        url: https://practice.dsc10.com/pretest/
   - date: 2026-10-2
     events:
       - name: LEC 4

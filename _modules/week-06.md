@@ -22,7 +22,7 @@ days:
     events:
       - name: LAB 4
         type: lab
-        title: Simulation, Sampling, & Bootstrapping
+        title: Simulation, Sampling, and Bootstrapping
         url:
   - date: 2026-11-4
     events:
@@ -40,7 +40,7 @@ days:
     events:
       - name: HW 4
         type: hw
-        title: Simulation, Sampling, Bootstrapping
+        title: Simulation, Sampling, and Bootstrapping
         url:
   - date: 2026-11-6
     events:

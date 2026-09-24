@@ -16,7 +16,7 @@ days:
         keywords: confidence intervals for hypothesis testing, body temperature, smoking/babies
       - name: DISC 8
         type: disc
-        title: The Central Limit Theorem & Hypothesis Testing
+        title: The Central Limit Theorem and Hypothesis Testing
         url:
   - date: 2026-11-17
     events:
