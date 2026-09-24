@@ -16,6 +16,8 @@ nav_order: 1
 
 {: .success }
 >Welcome to DSC 10! Make sure to read this website thoroughly and complete the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist. 
+>
+>On Friday, attend lecture in the morning and your laboratory section in the afternoon/evening. 
 
 
 <!--{: .warning }

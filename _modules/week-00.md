@@ -17,4 +17,5 @@ days:
       - name: EXTRA
         type: quiz
         title: Knowledge Assessment for Research Study (+1% Extra Credit)
+        url: https://dsc10.com/ai_tutor/#what-participation-might-involve
 ---
