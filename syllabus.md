@@ -439,7 +439,7 @@ If you have a conflict with either exam, you should let us know right away via t
 
 Quizzes are designed to help you get more practice solving problems on-paper without a computer in front of you, as you'll need to do on exams. Like exams, quizzes are in-person and on-paper. You'll be allowed to use one 8.5 by 11 inch page of double-sided handwritten notes, but no calculators, computers, or other resources. Quiz questions are meant to be more straightforward than exam questions, but they will help you build the skills you need to perform well on exams, as well as help you identify any areas you need more practice in before the exam.
 
-There are four quizzes throughout the quarter, administered during your [assigned quiz session](#-quiz-sessions) on the following dates:
+There are four quizzes throughout the quarter, administered during your enrolled laboratory section on the following dates:
 
 - Quiz 1: Friday, October 9th
 - Quiz 2: Friday, October 16th
