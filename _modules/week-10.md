@@ -40,9 +40,9 @@ days:
       - name: REV
         type: lecture
         title: Review, Conclusion
-      - name: POST
+      - name: XTRA
         type: quiz
-        title: Post-Course Knowledge Assessment for Research Study (+1% Extra Credit)
+        title: Knowledge Assessment for Research Study (+1% Extra Credit)
   - date: 2026-12-5
     events:
       - name: EXAM
