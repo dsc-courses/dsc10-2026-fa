@@ -106,11 +106,11 @@ Only one member of your group should submit the work, indicating the names of al
 There are six laboratory sections:
 
 - Laboratory 001-001: Friday 3-3:50PM in [Center 222][center].
+- Laboratory 001-002: Friday 5-5:50PM in [Center 214][center].
 - Laboratory 002-001: Friday 6-6:50PM in [Center 214][center].
 - Laboratory 003-001: Friday 4-4:50PM in [Center 222][center].
-- Laboratory 004-001: Friday 8-8:50PM in [Center 214][center].
-- Laboratory 001-002: Friday 5-5:50PM in [Center 214][center].
 - Laboratory 003-002: Friday 7-7:50PM in [Center 214][center].
+- Laboratory 004-001: Friday 8-8:50PM in [Center 214][center].
 
 We will use the laboratory sections for a variety of different things:
 - On four days, we will have short 20-minute quizzes. 
