@@ -16,8 +16,8 @@
 title: DSC 10
 description: DSC 10, Fall 2026 at UC San Diego
 tagline: Principles of Data Science
-baseurl: '/dsc10-2026-fa' 
-url: 'https://dsc-courses.github.io'
+baseurl: '' 
+url: 'https://dsc10.com' 
 author: DSC 10 Instructors and Course Staff
 exclude: ['Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', 'vendor']
 
