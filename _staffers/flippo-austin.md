@@ -4,9 +4,9 @@ role: Tutor
 pronouns: he/him
 email:
 photo: assets/staff-images/flippo-austin.jpg
-description: 2nd year, Data Science, Eighth College
-hometown: Redondo Beach, California
+description: 3rd year, Data Science, Eighth
+hometown: Redondo Beach, CA
 askabout: Soccer, piano, tasty beverages
 foodemoji: 🍜
-food: Ramen Nagi, Marugame, Heytea
+food: Ramen Nagi, Marugame, Chagee
 ---

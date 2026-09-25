@@ -29,7 +29,11 @@ nav_order: 2
 [syllabuscheck]: {{ site.urls.syllabuscheck }}
 [welcome]: {{ site.urls.welcome}}
 [pretest]: {{site.urls.pretest}}
-[classroom]: {{site.urls.classroom}}
+[hss]: {{site.urls.hss}}
+[wlh]: {{site.urls.wlh}}
+[center]: {{site.urls.center}}
+[ridgewalk]: {{site.urls.ridgewalk}}
+
 
 ## 🧐 About
 
@@ -52,7 +56,7 @@ its specific content.
 
 ### Acknowledgements
 
-The contents of this course come from UC Berkeley's Data 8 course, created by Ani Adhikari, John DeNero, and many others. This offering builds off of earlier offerings of DSC 10 by Justin Eldridge, Suraj Rampure, Janine Tiefenbruck, and many others. Thanks to all those who have a played a role in shaping this amazing course!
+The contents of this course come from UC Berkeley's Data 8 course, created by Ani Adhikari, John DeNero, and many others. This offering builds off of earlier offerings of DSC 10 by Peter Chi, Justin Eldridge, Sam Lau, Suraj Rampure, Janine Tiefenbruck, and many others. Thanks to all those who have a played a role in shaping this amazing course!
 
 ---
 
@@ -60,46 +64,60 @@ The contents of this course come from UC Berkeley's Data 8 course, created by An
 
 ### Lecture
 
-There are two lecture sections:
+There are four lecture sections:
 
-- Section A: MWF 10-10:50AM in [PODEM 1A19][classroom].
-- Section B: MWF 11-11:50AM in [PODEM 1A19][classroom].
+- Lecture 001-000: MWF 10-10:50AM in [WLH 2005][wlh].
+- Lecture 002-000: MWF 9-9:50AM in [HSS 1330][hss].
+- Lecture 003-000: MWF 11-11:50AM in [WLH 2005][wlh].
+- Lecture 004-000: MWF 10-10:50AM in [HSS 1330][hss].
 
-Lecture is meant to introduce you to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
+Lecture is meant to introduce you to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion. Attending lecture regularly is the best way to learn the material and succeed in the course.
 
 You can attend any lecture section, but if space fills up, priority will be given to students officially enrolled in that section. For the Midterm Exam, you must attend the lecture section in which you are officially enrolled.
 
 **Lectures will be podcasted** (UCSD's term for "recorded"). Podcast recordings will be available online at [podcast.ucsd.edu][podcasts] within a few hours.
 
-### Discussion
+### Discussion Sections
 
-There are two discussion sections:
+There are four discussion sections:
 
-- Section A: Monday 3-3:50PM in [PODEM 1A20][classroom].
-- Section B: Monday 4-4:50PM in [PODEM 1A20][classroom].
+- Discussion 001-001: Monday 2-2:50PM in [WLH 2005][wlh].
+- Discussion 002-001: Monday 2-2:50PM in [Center 216][center].
+- Discussion 003-001: Tuesday 5-5:50PM in [RWAC 0121][ridgewalk].
+- Discussion 004-001: Monday 4-4:50PM in [Center 216][center].
 
-Discussions will start in Week 1 on Monday, March 30th. The first discussion includes some useful instruction and tips for using Jupyter notebooks and Datahub, the programming tools we'll be using in this course. It should be helpful to get you set up and comfortable with the technology you'll be using all quarter.
+Discussions will start in Week 1 on Monday, September 28th. The first discussion includes some useful instruction and tips for using Jupyter notebooks and Datahub, the programming tools we'll be using in this course. It should be helpful to get you set up and comfortable with the technology you'll be using all quarter.
 
-Subsequent discussion sections will be focused on quiz and exam preparation. Students will work through problems from past DSC 10 quizzes and exams and be able to get help from course staff. Attending discussion and working through practice problems gives you direct experience with the types of questions you will see on quizzes and exams, which are typically the hardest parts of the course.
+Subsequent discussion sections will be focused on quiz and exam preparation. Working in groups with 2 to 4 members, students will solve problems from past DSC 10 quizzes and exams and be able to get help from course staff. Attending discussion and working through practice problems gives you direct experience with the types of questions you will see on quizzes and exams, which are typically the hardest parts of the course.
 
 **Discussion sections will not be podcasted.** The purpose of discussion is to give you hands-on problem-solving experience, so you really need to attend and participate to reap the benefits.
 
-### Quiz Sessions
+Discussion attendance counts towards your participation grade. In order to get credit, you must complete all of the following:
 
-On four Wednesdays throughout the quarter, we will have short 20-minute quizzes. Quizzes will be held in-person during the time reserved for this class in the schedule of classes.
+- Attend the discussion section in which you are officially enrolled.
+- Check in with your designated tutor for attendance.
+- Work in a group of size 2-4 students.
+- Submit a copy of your group's work to Gradescope by Tuesday at 11:59PM.
 
-Your quiz time is determined by your enrolled lecture section and the first letter of your last name:
+Only one member of your group should submit the work, indicating the names of all group members when prompted. We will not grade you on the correctness of your answers; you will get full credit if you attempted the problems and showed your work.
 
-- Quiz Session 1, Wednesday 3-3:20PM in [PODEM 1A20][classroom]:
-  - Section A, last name A-L
-- Quiz Session 2, Wednesday 3:30-3:50PM in [PODEM 1A20][classroom]:
-  - Section A, last name M-Z
-- Quiz Session 3, Wednesday 4-4:20PM in [PODEM 1A20][classroom]:
-  - Section B, last name A-L
-- Quiz Session 4, Wednesday 4:30-4:50PM in [PODEM 1A20][classroom]:
-  - Section B, last name M-Z
+### Laboratory Sections
 
-If you have a conflict with your assigned quiz session, you can let us know on the [Welcome Survey][welcome] and we will do our best to accommodate you. You must be able to attend at least one of the quiz sessions in order to take this class.
+There are six laboratory sections:
+
+- Laboratory 001-001: Friday 3-3:50PM in [Center 222][center].
+- Laboratory 001-002: Friday 5-5:50PM in [Center 214][center].
+- Laboratory 002-001: Friday 6-6:50PM in [Center 214][center].
+- Laboratory 003-001: Friday 4-4:50PM in [Center 222][center].
+- Laboratory 003-002: Friday 7-7:50PM in [Center 214][center].
+- Laboratory 004-001: Friday 8-8:50PM in [Center 214][center].
+
+We will use the laboratory sections for a variety of different things:
+- On four days, we will have short 20-minute quizzes. 
+- On four other days, you will meet with your "pod" for 50 minutes. Pods will be groups of 20 to 30 students, led by a course tutor. Pods are meant to give you the experience of being in a "microclass" within a much larger course, and to provide you with mentorship from a tutor. Pod meetings will be purely social and are designed to help you make connections with classmates and your mentor, not to work on any specific course-related material. We hope that pods will help you find a community of study buddies and friends!
+- Once at the beginning of the quarter, and once at the end of the quarter, we will use the laboratory section to administer pre- and post-course knowledge assessments. These will be used for a [research study](../ai_tutor) and will not count for your grade.
+
+You must attend the laboratory section in which you are officially enrolled.  If you have a conflict, you must resolve the conflict in order to take the course this quarter.
 
 ### Office Hours
 
@@ -138,12 +156,12 @@ Your primary motivation when interacting with course staff should be
 
 ## 🚦 Getting Started
 
-Make sure to complete the four items listed below by **Thursday, April 2nd at
+Make sure to complete the four items listed below by **Tuesday, September 29th at
 11:59PM**. If you join the course late, these items are due at 11:59PM the day
 after you join the class.
 
-1. Join [Campuswire][campuswirejoin] (join code: 6479).
-2. Check if you can access [Gradescope][gradescope]. If not, send a private message to the instructional staff on Campuswire with your name, PID, and email address, so that we can add you and you can submit assignments.
+1. Join [Campuswire][campuswirejoin] (join code: 4942).
+2. Check if you can access [Gradescope][gradescope]. If not, make a private post on Campuswire with your name, Triton Student Number, and email address, so that we can add you and you can submit assignments.
 3. Read the syllabus and course website and complete the [Syllabus Check][syllabuscheck].
 4. Fill out the [Welcome Survey][welcome].
 
@@ -160,13 +178,12 @@ additional platforms that you'll need to access:
 
 - **Campuswire:** We'll be using Campuswire as our course message and
   discussion board. More details are in the [Communication](#-communication)
-  section below. If you didn't already get an invitation, [join here][campuswirejoin] (join code: 6479).
+  section below. If you didn't already get an invitation, [join here][campuswirejoin] (join code: 4942).
 
 - **Gradescope:** You'll submit all assignments and exams to
   [Gradescope][gradescope]. This is where all of your grades will live as well.
   You will be automatically added to Gradescope about 24 hours after enrolling
-  in the course. If you need to submit assignments before then, please send a
-  private message to the instructional staff on Campuswire with your name, PID,
+  in the course. If you need to submit assignments before then, please make a private post on Campuswire with your name, Triton Student Number,
   and email address.
 
 - **DataHub:** Assignments in this course will involve programming in Python.
@@ -204,14 +221,15 @@ We'll release solutions to the Pretest after the due date, and you are highly en
 
 ## 💬 Communication
 
-This quarter, we’ll be using [Campuswire][campuswirejoin] (join code: 6479) as our course message board.
+This quarter, we’ll be using [Campuswire][campuswirejoin] (join code: 4942) as our course message board.
 
 If you have a question about anything to do with the course — if you’re stuck
 on a problem, want clarification on the logistics, or just have a general
 question about data science — you can make a post on Campuswire. If your post
 includes any part of your solution to a problem (e.g. code), please make your
 post private; otherwise, please make your post public so that other students
-can benefit from the interaction. You can also post anonymously if you prefer.
+can benefit from the interaction. You can also post anonymously if you prefer. Please avoid directly messaging staff members, and post in the main course feed instead.
+
 Course staff will regularly check Campuswire and try to answer any questions
 that you have. You’re also encouraged to answer a question asked by another
 student if you feel that you know the answer – this is a great way to
@@ -250,7 +268,7 @@ assignment such that all the tests pass, you'll get a perfect score!
 To submit a lab, follow the instructions in the assignment to upload your
 notebook to Gradescope, which will run automated tests and assign your score.
 You should verify that all of your test cases pass on Gradescope **before the
-deadline**. Lab assignments will usually be due on Thursdays at 11:59PM,
+deadline**. Lab assignments will usually be due on Tuesdays at 11:59PM,
 though you should refer to the [homepage of this website](..) for the most up-to-date schedule. We will
 release lab assignments roughly a week before they're due. **Your lowest lab score
 is dropped from your grade calculation at the end of the quarter.**
@@ -258,6 +276,9 @@ is dropped from your grade calculation at the end of the quarter.**
 Labs must be completed and submitted individually, but we encourage you to
 discuss high-level approaches with others. See the [Academic Integrity Policies](#-academic-integrity-policies) section
 for more details.
+
+{: .warning }
+**Despite having similar names, lab assignments are not related in any way to the Friday laboratory sections which will be used for quizzes and pod meetings.**
 
 ### Homework Assignments
 
@@ -284,7 +305,7 @@ submission, this only means that you've passed the formatting tests, not the
 hidden correctness tests that determine your score.
 
 To submit a homework, follow the instructions in the assignment to upload your
-notebook to Gradescope. Homeworks will usually be due on Mondays at
+notebook to Gradescope. Homeworks will usually be due on Thursdays at
 11:59PM, though you should refer to the [homepage of this website](..) for the most up-to-date schedule.
 We will release homework assignments roughly a week before they're
 due. **Your lowest homework score
@@ -330,7 +351,7 @@ and solve the problem before the deadline.
 It may take some time for Gradescope's autograder to grade your submission.
 You are encouraged to submit with enough time to see the output of the autograder before the 11:59PM deadline,
 as it may alert you to a problem you need to fix. However, if you submit before
-11:59PM and the autograder finishes running after 11:59PM, your assigment will still be
+11:59PM and the autograder finishes running after 11:59PM, your assignment will still be
 considered on time.
 
 After submitting, check that you got a confirmation email
@@ -407,8 +428,8 @@ Exams and quizzes are designed to test your understanding of course material, th
 
 This class has one Midterm Exam and one Final Exam:
 
-- Midterm Exam: Friday, May 1st, **during your enrolled lecture slot**.
-- Final Exam: Saturday, June 6th from 3PM to 6PM, in PCYNH 106.
+- Midterm Exam: Monday, October 26th, **during your enrolled lecture slot**.
+- Final Exam: Saturday, December 5th from 3PM to 6PM.
 
 Exams are cumulative, though the Final Exam will emphasize material after the Midterm Exam. Both exams will be held **in-person and on-paper**. You'll be allowed to use one 8.5 by 11 inch page of double-sided handwritten notes, but no calculators, computers, or other resources.
 
@@ -418,14 +439,14 @@ If you have a conflict with either exam, you should let us know right away via t
 
 Quizzes are designed to help you get more practice solving problems on-paper without a computer in front of you, as you'll need to do on exams. Like exams, quizzes are in-person and on-paper. You'll be allowed to use one 8.5 by 11 inch page of double-sided handwritten notes, but no calculators, computers, or other resources. Quiz questions are meant to be more straightforward than exam questions, but they will help you build the skills you need to perform well on exams, as well as help you identify any areas you need more practice in before the exam.
 
-There are four quizzes throughout the quarter, administered during your [assigned quiz session](#-quiz-sessions) on the following dates:
+There are four quizzes throughout the quarter, administered during your enrolled laboratory section on the following dates:
 
-- Quiz 1: Wednesday, April 15th
-- Quiz 2: Wednesday, April 22nd
-- Quiz 3: Wednesday, May 20th
-- Quiz 4: Wednesday, May 27th
+- Quiz 1: Friday, October 9th
+- Quiz 2: Friday, October 16th
+- Quiz 3: Friday, November 6th
+- Quiz 4: Friday, November 20th
 
-We will count only your two highest quiz scores towards your grade. In other words, we will drop your lowest two quiz scores.
+We will count only your two highest quiz scores towards your grade. In other words, we will drop your two lowest quiz scores.
 
 Quizzes are designed to give you low-stakes opportunities to practice solving problems on paper, with room for failure. You don't need to do well on every quiz to do well in the course.
 
@@ -441,22 +462,34 @@ schedule. Please refer to the [homepage of this website](..) for the most up-to-
 
 | | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** |
 | **morning** | Lecture | | Lecture | | Lecture |
-| **afternoon** | Discussion | | <b style="color:#B30011">Quiz</b> | | |
-| **evening** | <b style="color:#B30011">Homework due</b> | | | <b style="color:#B30011">Lab due</b> | |
+| **afternoon** | Discussion | Discussion | | | <b style="color:#B30011">Quiz</b> |
+| **evening** | | <b style="color:#B30011">Lab due</b>  | |<b style="color:#B30011">Homework due</b>| |
 
 ---
 
 ## 🙋 Participation
 
-Actively participating in the course is highly beneficial to your learning. Engaging with the course material, the course staff, and your peers will set you up for success in this course and in other data science courses you may take in the future. A portion of your grade will be allocated towards participation.
+Actively participating in the course is highly beneficial to your learning. Engaging with the course material, the course staff, and your peers will set you up for success in this course and in other data science courses you may take in the future. A portion of your grade will be allocated towards participation, though you have the option to replace your participation score with your Final Exam score if you do better.
 
-There will be 4 participation points available:
+There will be 17 participation points available:
 
-- 2 points for the Pretest, graded for honest effort.
-- 1 point for scoring 80% or higher on the Syllabus Check.
-- 1 point for completing SETs (Student Evaluations of Teaching) and an internal End-Of-Quarter Survey.
+- 1 point for the Pretest, graded for honest effort.
+- 1 point for passing the Syllabus Check at 80% or higher.
+- 1 point for completing SETs (Student Evaluations of Teaching) and an internal End-Of-Quarter Survey. 
+- 1 point for attending and submitting groupwork for each discussion section (10 points total).
+- 1 point for attending each pod meeting (4 points total).
 
-Your participation grade will be the number of points earned out of 4.
+**Score 12 points or higher for full participation credit.** If you earn fewer than 12 points, your participation grade will be the number of points earned out of 12. There is no extra credit for earning more than 12 points.
+
+---
+
+## ⭐ Extra Credit
+
+There will be two opportunities for extra credit, both of which are associated with a [research study](../ai_tutor)  about how students learn. 
+
+You can earn an extra 1% on your overall course average by completing a pre-course knowledge assessment in your Week 0 laboratory section, as well as an online survey. You must complete BOTH components to earn the extra credit.
+
+Similarly, at the end of the quarter, you can earn an additional 1% of extra credit by completing a post-course knowledge assessment in your Week 10 laboratory section, as well as an online survey. Again, you must complete BOTH components to earn the extra credit.
 
 ---
 
@@ -466,14 +499,15 @@ The table below shows how your mastery of class material will be assessed and
 how grades will be computed:
 
 | **Component** | **Weight** | **Notes** |
-| Participation | 3% | |
+| Participation | 10% | can be replaced with Final Exam score if higher|
 | Lab Assignments | 10% | drop lowest score |
-| Homework Assignments | 25% | drop lowest score |
-| Quizzes | 12% | drop lowest two scores |
+| Homework Assignments | 20% | drop lowest score |
+| Quizzes | 10% | drop two lowest scores|
 | Midterm Project | 10% | |
 | Midterm Exam | 10% | |
 | Final Project | 10% | |
 | Final Exam | 20% | |
+| Extra Credit | +2% | |
 
 Note that in each category, all assignments in that category will be worth the same amount,
 regardless of the number of points they are graded out of.
@@ -628,7 +662,7 @@ If your assignment submission includes any content generated by an AI tool, it s
 
 ## 🤗 Support
 
-### Accomodations
+### Accommodations
 
 From the [Office for Students with Disabilities (OSD)](https://osd.ucsd.edu):
 
@@ -671,28 +705,27 @@ We will not use a #FinAid survey, but we will certify academic activity for any 
 
 **I am on the waitlist, but I really want to get into the course. Can you let me in?**
 
-Sorry, but instructors are not able to enroll students in classes. There is nothing we can do let you into the course.
+Sorry, but instructors are not able to book students in classes. There is nothing we can do let you into the course.
 
 **I am on the waitlist, so how can I keep up with the course?**
 
 Waitlisted to students may attend lecture and discussion, space-permitting, and can also watch podcast recordings. You can (and should) still submit assignments if you are on the waitlist. If you get off the waitlist and are able to join the class, you will not get any extensions on past-due assignments.
 
-Waitlisted students should have access to DataHub to work on assignments. You may need to add yourself to some course tools; see the [Getting Started](#-getting-started) section of the syllabus. If you need access to Gradescope, send a private message to the instructional staff on Campuswire with your name, PID, and email address.
+Waitlisted students should have access to DataHub to work on assignments. You may need to add yourself to some course tools; see the [Getting Started](#-getting-started) section of the syllabus. If you need access to Gradescope, make a private post on Campuswire with your name, Triton Student Number, and email address.
 
 **What are my chances of getting off the waitlist?**
 
 The instructional staff is not equipped to answer this question. Many questions
 about enrollment are [answered
 here](https://datascience.ucsd.edu/current-students/enrolling-in-classes/). Please direct
-your questions about enrollment to DSC advising. You can send an email to
-[dscstudent@ucsd.edu](mailto:dscstudent@ucsd.edu), send a message through the
-Virtual Advising Center, or stop by drop-in advising hours. In short, seats in
+your questions about booking to [DSC Advising](https://datascience.ucsd.edu/current-students/academic-advising/), who you can contact through the
+Virtual Advising Center, or stop by for drop-in advising hours. In short, seats in
 the class open up when students drop the class, which can be hard to predict.
 
 **I have been added to Gradescope, Campuswire, and other course tools. Does
 this mean I am off the waitlist?**
 
 No. Students on the waitlist were added to all course tools, so they can
-complete assignments while they are on the waitlist. Check
-[WebReg](https://act.ucsd.edu/webreg2) if you are not sure of your enrollment
+complete assignments while they are on the waitlist. Check your booking record on 
+[TSS](https://tss.ucsd.edu/fiori) if you are not sure of your enrollment
 status.

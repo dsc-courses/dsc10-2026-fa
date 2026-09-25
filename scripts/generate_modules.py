@@ -9,10 +9,10 @@ import sys
 import numpy as np
 
 # Edit these variables before running script
-CSV_PATH = "Lecture Schedule – DSC 10, Spring 2026 - sp26.csv"  #CHANGE CSV PATH for your computer
+CSV_PATH = "./scripts/Lecture Schedule – DSC 10, Fall 2026 - fa26.csv"  # CHANGE CSV PATH for your computer
 DATE_FORMAT = "DATE MONTH/DAY"
 YEAR = 2026
-START_FROM_WEEK = 1 #only future weeks!
+START_FROM_WEEK = 0 # only future weeks!
 
 
 def fill_missing_vals(df):
@@ -25,6 +25,7 @@ def fill_missing_vals(df):
     df["Discussion"] = df["Discussion"].fillna("").astype(str)
     df["Lab"] = df["Lab"].fillna("").astype(str)
     df["Quiz"] = df["Quiz"].fillna("").astype(str)
+    df["POD"] = df["POD"].fillna("").astype(str) # COMMENT OUT IF NOT CURRENTLY FALL QTR
     df["Survey"] = df["Survey"].fillna("").astype(str)
     return df
 
@@ -90,10 +91,10 @@ def date_conv(date):
 
 
 def has_content(row):
-    return row.loc[["Lecture", "Homework", "Lab", "Discussion", "Quiz"]].any() != ''
+    return row.loc[["Lecture", "Homework", "Lab", "Discussion", "Quiz", "Survey", "POD"]].any() != ''
 
 # for a single week
-def write_week(i, dest="../_modules", write=True):  #CHANGE dest to path where "_modules" is on your computer
+def write_week(i, dest="./_modules", write=True):  #CHANGE dest to path where "_modules" is on your computer
     week = df.query("Week == @i")
     week = week[week.apply(has_content, axis=1)] 
 
@@ -115,6 +116,7 @@ days:"""
         keywords = day.Keywords
         discussion = day.Discussion
         quiz = day.Quiz
+        pod = day.POD
         survey = day.Survey
  
         date_formatted = date_conv(date)
@@ -183,6 +185,12 @@ days:"""
       - name: QUIZ {quiz_num}
         type: quiz
         title: {quiz_description}"""
+
+        if pod: # COMMENT OUT IF NOT CURRENTLY FALL QTR
+            outstr += f"""
+      - name: POD
+        type: quiz
+        title: Pod Meeting"""
  
         # --- Assignments last ---
  

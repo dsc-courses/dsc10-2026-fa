@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tutor-Created Resources
-description: Informative diagrams taken from lecture.
+title: 🧑‍🏫 Tutor-Created Resources
+description: Tutor-created resources to assist your learning.
 nav_order: 4
 parent: 📚 Resources
 ---

@@ -2,7 +2,7 @@
 name: Rishika Sahu
 role: Tutor
 pronouns: she/her
-email: rsahu@ucsd.edu
+email:
 photo: assets/staff-images/sahu-rishika.jpg
 description: 2nd year, Data Science, Muir
 hometown: Foster City, CA
