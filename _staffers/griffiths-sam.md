@@ -2,7 +2,7 @@
 name: Sam Griffiths
 role: Tutor
 pronouns: he/him
-email: sgriffiths@ucsd.edu
+email:
 photo: assets/staff-images/griffiths-sam.jpg
 description: 2nd year, Math-CS, ERC
 hometown: South Pasadena, CA
