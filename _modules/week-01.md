@@ -7,8 +7,8 @@ days:
       - name: LEC 2
         type: lecture
         title: Expressions and Data Types
-        url:
-        html:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=lectures/lec02/lec02.ipynb
+        html: resources/lectures/lec02/lec02.html
         podcast:
         readings:
           - name: BPD 1-6
