@@ -17,7 +17,9 @@ nav_order: 1
 {: .success }
 >Welcome to DSC 10! Make sure to read this website thoroughly and complete the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist. 
 >
->On Friday, attend lecture in the morning and your laboratory section in the afternoon/evening. 
+>On Monday, attend lecture in the morning and discussion in the afternoon (unless you are enrolled in the discussion which meets Tuesday). 
+>
+>Remember to complete this [survey](https://sdsu.co1.qualtrics.com/jfe/form/SV_ergnNHLAceLA81U) - if you took the pre-course assessment AND do this survey by Friday, October 2nd, you'll earn [1% extra credit](https://dsc10.com/syllabus/#-extra-credit) for participating in research on how students learn.  
 
 
 <!--{: .warning }
