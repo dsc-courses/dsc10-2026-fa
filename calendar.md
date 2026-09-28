@@ -9,8 +9,9 @@ nav_order: 3
 
 Office hours will be held in Room 155 of the <a href="https://arcg.is/11eay83">HDSI building</a>. Many students come to office hours just to work on their assignments, even if they don't have specific questions. All are welcome and we hope to see you there!
 
-{: .note }
+<!--{: .note }
 Office hours start in Week 1 and will be added to this calendar soon!
+-->
 
 
 <center>
