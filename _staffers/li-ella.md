@@ -4,7 +4,7 @@ role: Tutor
 pronouns: she/her
 email:
 photo: assets/staff-images/li-ella.jpg
-description: 3nd year, Data Science & Business Economics, Warren
+description: 3rd year, Data Science & Business Economics, Warren
 hometown: Nanjing, China
 askabout: Photography, travelling, blind box
 foodemoji: 🍦
