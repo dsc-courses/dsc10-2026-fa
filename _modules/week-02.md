@@ -27,7 +27,7 @@ days:
       - name: LAB 1
         type: lab
         title: Arrays and DataFrames
-        url:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=labs/lab1/lab1.ipynb
       - name: GROUP
         type: disc
         title: Groupwork from Discussion 2
