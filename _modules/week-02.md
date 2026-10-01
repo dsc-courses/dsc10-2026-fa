@@ -49,7 +49,7 @@ days:
       - name: HW 1
         type: hw
         title: Basic Python, Arrays, and DataFrames
-        url:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=homeworks/hw1/hw1.ipynb
   - date: 2026-10-9
     events:
       - name: LEC 7
