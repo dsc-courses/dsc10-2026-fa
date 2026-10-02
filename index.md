@@ -15,11 +15,11 @@ nav_order: 1
 
 
 {: .success }
->Welcome to DSC 10! Make sure to read this website thoroughly and complete the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist. 
+>Today is your first pod meeting. Make sure to attend the laboratory section you are officially enrolled in.
+> 
+> The online [survey](https://sdsu.co1.qualtrics.com/jfe/form/SV_ergnNHLAceLA81U) associated with the research study is due tonight! You can earn [1% extra credit](https://dsc10.com/syllabus/#-extra-credit) for doing this survey if you already took the pre-course knowledge assessment in last week's laboratory section.
 >
->On Monday, attend lecture in the morning and discussion in the afternoon (unless you are enrolled in the discussion which meets Tuesday). 
->
->Remember to complete this [survey](https://sdsu.co1.qualtrics.com/jfe/form/SV_ergnNHLAceLA81U) - if you took the pre-course assessment AND do this survey by Friday, October 2nd, you'll earn [1% extra credit](https://dsc10.com/syllabus/#-extra-credit) for participating in research on how students learn.  
+>If you are joining the class late, start by doing the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist. You will want to catch up as soon as possible on missed work!
 
 
 <!--{: .warning }
