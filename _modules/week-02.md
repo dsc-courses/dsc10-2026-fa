@@ -7,8 +7,8 @@ days:
       - name: LEC 5
         type: lecture
         title: Querying and Grouping
-        url:
-        html:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=lectures/lec05/lec05-live.ipynb
+        html: resources/lectures/lec05/lec05.html
         podcast:
         readings:
           - name: BPD 10-11
