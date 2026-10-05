@@ -17,13 +17,13 @@ days:
       - name: DISC 2
         type: disc
         title: Arrays and DataFrames
-        url:
+        url: https://practice.dsc10.com/disc02/index.html
   - date: 2026-10-6
     events:
       - name: DISC 2
         type: disc
         title: Arrays and DataFrames
-        url:
+        url: https://practice.dsc10.com/disc02/index.html
       - name: LAB 1
         type: lab
         title: Arrays and DataFrames
