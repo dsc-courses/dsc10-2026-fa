@@ -15,9 +15,9 @@ nav_order: 1
 
 
 {: .success }
->Today is your first pod meeting. Make sure to attend the laboratory section you are officially enrolled in.
+>Discussion 2 will take place Monday and Tuesday of this week. If you have a conflict with another course, you may attend a different section than the one you are officially enrolled in.
 > 
-> The online [survey](https://sdsu.co1.qualtrics.com/jfe/form/SV_ergnNHLAceLA81U) associated with the research study is due tonight! You can earn [1% extra credit](https://dsc10.com/syllabus/#-extra-credit) for doing this survey if you already took the pre-course knowledge assessment in last week's laboratory section.
+> You must submit a PDF of your written work to Gradescope by 11:59PM Tuesday. Handwriting on paper or writing on a tablet is fine, but it should not be typed. You must work in groups of size 2-4 for credit, and you also need to check in with a tutor to get your attendance marked.
 >
 >If you are joining the class late, start by doing the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist. You will want to catch up as soon as possible on missed work!
 

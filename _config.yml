@@ -41,6 +41,7 @@ urls:
   wlh: &wlh 'https://arcg.is/1a1jzW0'
   center: &center 'https://arcg.is/njzeq3' 
   ridgewalk: &ridgewalk 'https://arcg.is/0fjfKL2' 
+  mandeville: &ridgewalk 'https://arcg.is/1KXbi17' 
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.12.0

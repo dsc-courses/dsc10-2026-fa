@@ -33,6 +33,7 @@ nav_order: 2
 [wlh]: {{site.urls.wlh}}
 [center]: {{site.urls.center}}
 [ridgewalk]: {{site.urls.ridgewalk}}
+[mandeville]: {{site.urls.mandeville}}
 
 
 ## 🧐 About
@@ -79,11 +80,12 @@ You can attend any lecture section, but if space fills up, priority will be give
 
 ### Discussion Sections
 
-There are four discussion sections:
+There are five discussion sections:
 
 - Discussion 001-001: Monday 2-2:50PM in [WLH 2005][wlh].
 - Discussion 002-001: Monday 2-2:50PM in [Center 216][center].
 - Discussion 003-001: Tuesday 5-5:50PM in [RWAC 0121][ridgewalk].
+- Discussion 003-002: Tuesday 6-6:50PM in [Mandeville B-202][mandeville].
 - Discussion 004-001: Monday 4-4:50PM in [Center 216][center].
 
 Discussions will start in Week 1 on Monday, September 28th. The first discussion includes some useful instruction and tips for using Jupyter notebooks and Datahub, the programming tools we'll be using in this course. It should be helpful to get you set up and comfortable with the technology you'll be using all quarter.
@@ -97,9 +99,9 @@ Discussion attendance counts towards your participation grade. In order to get c
 - Attend the discussion section in which you are officially enrolled.
 - Check in with your designated tutor for attendance.
 - Work in a group of size 2-4 students.
-- Submit a copy of your group's work to Gradescope by Tuesday at 11:59PM.
+- Submit a copy of your group's work to Gradescope by Tuesday at 11:59PM. Work must be handwritten on paper or a tablet, not typed.
 
-Only one member of your group should submit the work, indicating the names of all group members when prompted. We will not grade you on the correctness of your answers; you will get full credit if you attempted the problems and showed your work.
+Only one member of your group should submit the work, indicating the names of all group members when prompted. We will not grade you on the correctness of your answers; you will get full credit if you attempted the problems and showed your work. You do not need to complete all of the problems; just submit the work you did during the 50-minute discussion section.
 
 ### Laboratory Sections
 
