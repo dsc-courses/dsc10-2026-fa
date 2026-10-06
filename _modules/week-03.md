@@ -29,7 +29,7 @@ days:
       - name: LAB 2
         type: lab
         title: Data Visualizations and Functions
-        url:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=labs/lab2/lab2.ipynb
       - name: GROUP
         type: disc
         title: Groupwork from Discussion 3
