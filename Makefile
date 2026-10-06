@@ -1,4 +1,4 @@
-.PHONY: help serve build clean
+.PHONY: help serve build clean test
 
 TODAY := $(shell date +"%m-%d")
 
@@ -10,6 +10,9 @@ serve: ## Starts Jekyll server that auto-builds on file changes
 
 build: ## Builds website once
 	jekyll build
+
+test: ## Checks module links open in a new tab
+	python3 scripts/test_module_new_tab.py
 
 clean: ## Removes generated files
 	rm -rf _site .jekyll-cache .sass-cache

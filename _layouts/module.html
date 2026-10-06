@@ -15,7 +15,7 @@
       <p>
         <strong class="label label-{{ event.type }}"> {{ event.name }} </strong>
         {%- if event.type != "lecture" and event.url -%}
-        <a href="{{ event.url }}">{{ event.title }}</a>
+        <a href="{{ event.url }}" target="_blank">{{ event.title }}</a>
         {%- else -%} {{ event.title }} {%- endif -%} {%- if event.type ==
         "lecture" or event.type == "review" -%} {%- if event.blank -%}
         <br />
@@ -27,7 +27,7 @@
         </small>
         {%- endif -%} {%- if event.url-%}
         <small>
-          <a href="{{ event.url }}">
+          <a href="{{ event.url }}" target="_blank">
             <button type="button" class="btn btn-info">💻 code</button>
           </a>
         </small>
@@ -39,7 +39,7 @@
         </small>
         {%- endif -%} {%- if event.code -%}
         <small
-          >&nbsp;&nbsp;<a href="{{ event.code }}">
+          >&nbsp;&nbsp;<a href="{{ event.code }}" target="_blank">
             <button type="button" class="btn btn-info">💻 code</button>
           </a>
         </small>
@@ -52,7 +52,7 @@
         {%- endif -%} {%- if event.html -%}
         <small>
           &nbsp;&nbsp;
-          <a href="{{ event.html }}">
+          <a href="{{ event.html }}" target="_blank">
             <button type="button" class="btn btn-info">✏️ write</button>
           </a>
         </small>
@@ -165,7 +165,7 @@
         <span> </span>
         {%- endif -%} {%- if event.readings -%} {% for reading in event.readings
         %}
-        <a href="{{ reading.url }}">{{ reading.name }}</a>{% if forloop.last ==
+        <a href="{{ reading.url }}" target="_blank">{{ reading.name }}</a>{% if forloop.last ==
         false %}, {% endif %} {% endfor %} {%- endif -%}
         <!-- {{ event.reading_name | markdownify | remove: '<p>' | remove: '</p>' }} -->
       </p>
