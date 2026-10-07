@@ -105,6 +105,15 @@ This can happen if you click the name of a course other than DSC 10 when logging
 - Pick the right server for the DataHub (it should start with "DSC10" and be under the DSC 10 instructor's name). Select that server and click "Launch Environment".
 - Navigate back into your assignment either through the [DSC10 homepage](https://dsc10.com/) or using the navigation bar.
 
+### `Test directory does not exist and no notebook path provided`
+
+This error happens if the otter grader does not have the file path of the homework notebook, as without the file path there is no way for the otter grader to know what file is being graded. Make sure that the otter grader import section in the first cell of your notebook is as follows (The file path should change depending on the name of the notebook submitted, e.g. “hw1.ipynb”).
+
+import otter
+grader = otter.Notebook(“hw1.ipynb”)
+
+Additionally, creating notebooks separate from the one already provided to you may cause the same error. Please delete any additional notebooks that have not already been provided to you, and avoid creating any new notebooks from scratch! If you need an additional space to do scratch work, you can create a new cell within the notebook.
+
 ### Other errors
 
 It can be difficult to decipher the meaning of error messages in Python. [Here is a useful guide](https://swcarpentry.github.io/python-novice-inflammation/09-errors.html). You can also ask in office hours, or on Campuswire, provided you are not posting your code publicly or otherwise giving away the answer in your post. Understanding cryptic error messages is a skill that comes with experience.
