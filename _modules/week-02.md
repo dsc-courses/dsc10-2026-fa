@@ -38,7 +38,7 @@ days:
         type: lecture
         title: Grouping and Data Visualization
         url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=lectures/lec06/lec06-live.ipynb
-        html: resources/lectures/lec05/lec05.html
+        html: resources/lectures/lec06/lec06.html
         podcast:
         readings:
           - name: CIT 7.0-7.1
