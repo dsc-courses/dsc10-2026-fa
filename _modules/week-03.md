@@ -53,7 +53,7 @@ days:
       - name: HW 2
         type: hw
         title: DataFrames, Data Visualization, and Functions
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=homeworks/hw2/hw2.ipynb
+        url:
   - date: 2026-10-16
     events:
       - name: LEC 10
