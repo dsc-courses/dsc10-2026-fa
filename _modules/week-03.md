@@ -19,7 +19,7 @@ days:
       - name: DISC 3
         type: disc
         title: Querying, Grouping, and Plotting
-        url:
+        url: https://practice.dsc10.com/disc03/index.html
   - date: 2026-10-13
     events:
       - name: DISC 3
@@ -29,7 +29,7 @@ days:
       - name: LAB 2
         type: lab
         title: Data Visualizations and Functions
-        url:
+        url: https://practice.dsc10.com/disc03/index.html
       - name: GROUP
         type: disc
         title: Groupwork from Discussion 3
