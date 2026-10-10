@@ -15,12 +15,9 @@ nav_order: 1
 
 
 {: .success }
->Discussion 2 will take place Monday and Tuesday of this week. If you have a conflict with another course, you may attend a different section than the one you are officially enrolled in.
-> 
-> You must submit a PDF of your written work to Gradescope by 11:59PM Tuesday. Handwriting on paper or writing on a tablet is fine, but it should not be typed. You must work in groups of size 2-4 for credit, and you also need to check in with a tutor to get your attendance marked.
+>Quiz 1 is happening today.  Find your assigned quiz time and seat on Gradescope under "Quiz Timeslots" and let us know on Campuswire if there are any issues. More announcements about the quiz are [here](https://campuswire.com/c/G77306E01/feed/112).
 >
->If you are joining the class late, start by doing the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist. You will want to catch up as soon as possible on missed work!
-
+>If you are joining the class late, start by doing the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist, then going through assignments in order. You will have a lot to catch up on! 
 
 <!--{: .warning }
 This site is **under construction**. Anything you read here is not finalized. This disclaimer will be removed when the site is ready for Spring 2026.-->

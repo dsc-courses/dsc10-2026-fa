@@ -37,8 +37,8 @@ days:
       - name: LEC 6
         type: lecture
         title: Grouping and Data Visualization
-        url:
-        html:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=lectures/lec06/lec06-live.ipynb
+        html: resources/lectures/lec06/lec06.html
         podcast:
         readings:
           - name: CIT 7.0-7.1
@@ -55,8 +55,8 @@ days:
       - name: LEC 7
         type: lecture
         title: Distributions and Histograms
-        url:
-        html:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=lectures/lec07/lec07-live.ipynb
+        html: resources/lectures/lec07/lec07.html
         podcast:
         readings:
           - name: CIT 7.2-7.3

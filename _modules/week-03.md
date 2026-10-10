@@ -25,11 +25,11 @@ days:
       - name: DISC 3
         type: disc
         title: Querying, Grouping, and Plotting
-        url:
+        url: https://practice.dsc10.com/disc03/index.html
       - name: LAB 2
         type: lab
         title: Data Visualizations and Functions
-        url: https://practice.dsc10.com/disc03/index.html
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=labs/lab2/lab2.ipynb
       - name: GROUP
         type: disc
         title: Groupwork from Discussion 3
@@ -53,7 +53,7 @@ days:
       - name: HW 2
         type: hw
         title: DataFrames, Data Visualization, and Functions
-        url:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=homeworks/hw2/hw2.ipynb
   - date: 2026-10-16
     events:
       - name: LEC 10

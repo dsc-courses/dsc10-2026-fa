@@ -82,7 +82,7 @@ You can attend any lecture section, but if space fills up, priority will be give
 
 There are five discussion sections:
 
-- Discussion 001-001: Monday 2-2:50PM in [WLH 2005][wlh].
+- Discussion 001-001: Monday 2-2:50PM in [Center 214][center].
 - Discussion 002-001: Monday 2-2:50PM in [Center 216][center].
 - Discussion 003-001: Tuesday 5-5:50PM in [RWAC 0121][ridgewalk].
 - Discussion 003-002: Tuesday 6-6:50PM in [Mandeville B-202][mandeville].
