@@ -15,9 +15,9 @@ nav_order: 1
 
 
 {: .success }
->Quiz 1 is happening today.  Find your assigned quiz time and seat on Gradescope under "Quiz Timeslots" and let us know on Campuswire if there are any issues. More announcements about the quiz are [here](https://campuswire.com/c/G77306E01/feed/112).
+>If you haven't signed up for a 1-on-1 quiz review with a tutor, we highly recommend doing so! [Sign up here.](https://www.signupgenius.com/go/10C094DACAA2FA3F5C61-66615964-quiz#/)
 >
->If you are joining the class late, start by doing the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist, then going through assignments in order. You will have a lot to catch up on! 
+> Attend Discussion 2 on Monday or Tuesday, and submit your groupwork to Gradescope by end of day Tuesday. It is ok to attend at a different time from your enrolled time. 
 
 <!--{: .warning }
 This site is **under construction**. Anything you read here is not finalized. This disclaimer will be removed when the site is ready for Spring 2026.-->
