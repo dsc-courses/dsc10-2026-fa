@@ -17,7 +17,7 @@ nav_order: 1
 {: .success }
 >If you haven't signed up for a 1-on-1 quiz review with a tutor, we highly recommend doing so! [Sign up here.](https://www.signupgenius.com/go/10C094DACAA2FA3F5C61-66615964-quiz#/)
 >
-> Attend Discussion 2 on Monday or Tuesday, and submit your groupwork to Gradescope by end of day Tuesday. It is ok to attend at a different time from your enrolled time. 
+> Attend Discussion 3 on Monday or Tuesday, and submit your groupwork to Gradescope by end of day Tuesday. It is ok to attend at a different time from your enrolled time. 
 
 <!--{: .warning }
 This site is **under construction**. Anything you read here is not finalized. This disclaimer will be removed when the site is ready for Spring 2026.-->
