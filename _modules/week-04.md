@@ -7,8 +7,8 @@ days:
       - name: LEC 11
         type: lecture
         title: Probability
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=lectures/lec11/lec11-live.ipynb
-        html: resources/lectures/lec11/lec11.pdf
+        url: 
+        html: 
         podcast:
         readings:
           - name: CIT 9.5

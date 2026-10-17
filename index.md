@@ -13,9 +13,10 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-
+<!--
 {: .success }
 >Quiz 2 is happening in the afternoon or evening laboratory section on Friday. [Check Gradescope](https://www.gradescope.com/courses/1403047/assignments/8814093) for your timeslot and seating assignment before showing up. 
+-->
 
 <!--{: .warning }
 This site is **under construction**. Anything you read here is not finalized. This disclaimer will be removed when the site is ready for Spring 2026.-->
@@ -26,11 +27,11 @@ This site is **under construction**. Anything you read here is not finalized. Th
 >Earn 1 participation point by filling out both [SETs](https://academicaffairs.ucsd.edu/Modules/Evals/) and the internal [End-of-Quarter Survey](https://forms.gle/BoRKzpGu7eduDUUT6) before Saturday, June 6th at 8AM.-->
 
 
-<!--{: .success }
+{: .success }
 >**Tip**: When working on assignments, use Ctrl+F on this page to search for a keyword and quickly find the relevant lecture. Click the "✏️ write" button to open a static version of the lecture for reference, which is much faster than loading it on DataHub.
 >
 >Also, make sure to use the [reference sheet]({{site.urls.reference}}) to quickly look up `babypandas` methods and see examples of how they work.
--->
+
 
 <!--{: .note }
 Quiz 4, coming up on **Wednesday, May 27th** covers Lectures 18 (starting with statistical models) through 22. 
