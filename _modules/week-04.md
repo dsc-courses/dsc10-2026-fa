@@ -8,7 +8,7 @@ days:
         type: lecture
         title: Probability
         url: 
-        html: 
+        html: resources/lectures/lec11/lec11.html
         podcast:
         readings:
           - name: CIT 9.5
