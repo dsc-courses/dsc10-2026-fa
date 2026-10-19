@@ -7,7 +7,7 @@ days:
       - name: LEC 11
         type: lecture
         title: Probability
-        url: 
+        url:
         html: resources/lectures/lec11/lec11.pdf
         podcast:
         readings:
@@ -17,13 +17,13 @@ days:
       - name: DISC 4
         type: disc
         title: Functions, DataFrames, and Control Flow
-        url:
+        url: https://practice.dsc10.com/disc04/index.html
   - date: 2026-10-20
     events:
       - name: DISC 4
         type: disc
         title: Functions, DataFrames, and Control Flow
-        url:
+        url: https://practice.dsc10.com/disc04/index.html
       - name: LAB 3
         type: lab
         title: DataFrames, Control Flow, and Probability
