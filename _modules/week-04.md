@@ -37,8 +37,8 @@ days:
       - name: LEC 12
         type: lecture
         title: Simulation
-        url:
-        html:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=lectures/lec12/lec12-live.ipynb
+        html: resources/lectures/lec12/lec12.html
         podcast:
         readings:
           - name: CIT 9.3-9.4
