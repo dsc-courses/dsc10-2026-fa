@@ -63,8 +63,8 @@ days:
       - name: LEC 13
         type: lecture
         title: Distributions and Sampling
-        url:
-        html:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=lectures/lec13/lec13-live.ipynb
+        html: resources/lectures/lec13/lec13.html
         podcast:
         readings:
           - name: CIT 10.0-10.4
