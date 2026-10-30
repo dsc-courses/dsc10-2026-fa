@@ -40,8 +40,8 @@ days:
       - name: LEC 15
         type: lecture
         title: Confidence Intervals, Center, and Spread
-        url:
-        html:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=lectures/lec15/lec15-live.ipynb
+        html: resources/lectures/lec15/lec15.html 
         podcast:
         readings:
           - name: CIT 13.3-13.4
