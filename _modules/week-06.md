@@ -17,17 +17,17 @@ days:
       - name: DISC 6
         type: disc
         title: Sampling, Bootstrapping, and Confidence Intervals
-        url:
+        url: https://practice.dsc10.com/disc06/index.html
   - date: 2026-11-3
     events:
       - name: DISC 6
         type: disc
         title: Sampling, Bootstrapping, and Confidence Intervals
-        url:
+        url: https://practice.dsc10.com/disc06/index.html
       - name: LAB 4
         type: lab
         title: Simulation, Sampling, and Bootstrapping
-        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=labs/lab4/lab4.ipynb 
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=labs/lab4/lab4.ipynb
       - name: GROUP
         type: disc
         title: Groupwork from Discussion 6
