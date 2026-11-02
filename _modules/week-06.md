@@ -7,8 +7,8 @@ days:
       - name: LEC 16
         type: lecture
         title: Standardization and the Normal Distribution
-        url:
-        html:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=lectures/lec16/lec16.ipynb
+        html: resources/lectures/lec16/lec16.html
         podcast:
         readings:
           - name: CIT 14.2-14.3
