@@ -453,7 +453,7 @@ As a disclaimer, these materials are provided to help you study, but they are no
 
 <hr>
 
-## Interactive Practice
+## Midterm Review
 
 ### Chihoot
 #### by Jeffrey Kang, Raymond Williams
