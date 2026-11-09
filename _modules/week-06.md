@@ -7,8 +7,8 @@ days:
       - name: LEC 16
         type: lecture
         title: Standardization and the Normal Distribution
-        url:
-        html:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=lectures/lec16/lec16.ipynb
+        html: resources/lectures/lec16/lec16.html
         podcast:
         readings:
           - name: CIT 14.2-14.3
@@ -37,8 +37,8 @@ days:
       - name: LEC 17
         type: lecture
         title: The Central Limit Theorem
-        url:
-        html:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=lectures/lec17/lec17-live.ipynb
+        html: resources/lectures/lec17/lec17.html
         podcast:
         readings:
           - name: CIT 14.4-14.5
@@ -55,8 +55,8 @@ days:
       - name: LEC 18
         type: lecture
         title: Choosing Sample Sizes, Statistical Models
-        url:
-        html:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=lectures/lec18/lec18-live.ipynb
+        html: resources/lectures/lec18/lec18.html
         podcast:
         readings:
           - name: CIT 14.6

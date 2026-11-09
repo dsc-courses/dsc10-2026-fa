@@ -450,3 +450,13 @@ As a disclaimer, these materials are provided to help you study, but they are no
 (<a href="https://www.youtube.com/watch?v=P_K5aC8W3xg&ab_channel=XiyinXu">source</a>)
 
 </center>
+
+<hr>
+
+## Midterm Review
+
+### Chihoot
+#### by Jeffrey Kang, Raymond Williams
+{: .no_toc }
+
+<a href="https://rayray4059.github.io/chihoot/">Open Here</a>

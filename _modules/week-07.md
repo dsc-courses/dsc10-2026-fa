@@ -7,8 +7,8 @@ days:
       - name: LEC 19
         type: lecture
         title: Hypothesis Testing
-        url:
-        html:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=lectures/lec19/lec19-live.ipynb
+        html: resources/lectures/lec19/lec19.html
         podcast:
         readings:
           - name: CIT 11.3
@@ -27,7 +27,7 @@ days:
       - name: LAB 5
         type: lab
         title: Variability and the Normal Distribution
-        url:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=labs/lab5/lab5.ipynb
       - name: GROUP
         type: disc
         title: Groupwork from Discussion 7
@@ -40,7 +40,7 @@ days:
       - name: HW 5
         type: hw
         title: The Normal Distribution and the Central Limit Theorem
-        url:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=homeworks/hw5/hw5.ipynb
   - date: 2026-11-13
     events:
       - name: LEC 20
