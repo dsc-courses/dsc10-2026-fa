@@ -17,13 +17,13 @@ days:
       - name: DISC 7
         type: disc
         title: Standardization and the Normal Distribution
-        url:
+        url: https://practice.dsc10.com/disc07/index.html
   - date: 2026-11-10
     events:
       - name: DISC 7
         type: disc
         title: Standardization and the Normal Distribution
-        url:
+        url: https://practice.dsc10.com/disc07/index.html
       - name: LAB 5
         type: lab
         title: Variability and the Normal Distribution
