@@ -96,9 +96,10 @@ Participation may include one or more of the following:
 - Completing short surveys about your learning experience.
 - Participating in optional interviews or focus groups.
 
-At this time, you can earn extra credit for completing the following tasks associated with the research study:
+You can earn extra credit for completing the following tasks associated with the research study:
 
 - Taking a pre-course knowledge assessment in your laboratory section in Week 0, and completing an online survey (+1% extra credit if you complete BOTH).
+- Participating in a 1-hour focus group and taking a follow-up survey (+0.5% extra credit if you complete BOTH).
 - Taking a post-course knowledge assessment in your laboratory section in Week 10, and completing an online survey (+1% extra credit if you complete BOTH).
 
 

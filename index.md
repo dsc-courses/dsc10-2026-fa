@@ -14,8 +14,11 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 
-{: .success }
->Quiz 3 is coming up on Friday. It covers all of the material from the Lecture 13-16 slides. [Check Gradescope](https://www.gradescope.com/courses/1403047/assignments/8814093) for your timeslot and seating assignment. 
+{: .note }
+There is a new extra credit opportunity available! See [Campuswire](https://campuswire.com/c/G77306E01/feed/377) for more details.
+
+<!--{: .success }
+>Quiz 3 is coming up on Friday. It covers all of the material from the Lecture 13-16 slides. [Check Gradescope](https://www.gradescope.com/courses/1403047/assignments/8814093) for your timeslot and seating assignment. -->
 
 
 <!--{: .warning }
