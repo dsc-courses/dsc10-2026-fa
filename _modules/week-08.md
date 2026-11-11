@@ -27,7 +27,7 @@ days:
       - name: LAB 6
         type: lab
         title: Hypothesis Testing
-        url:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=labs/lab6/lab6.ipynb
       - name: GROUP
         type: disc
         title: Groupwork from Discussion 8
