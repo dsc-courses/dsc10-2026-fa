@@ -17,13 +17,13 @@ days:
       - name: DISC 8
         type: disc
         title: The Central Limit Theorem and Hypothesis Testing
-        url:
+        url: https://practice.dsc10.com/disc08/index.html
   - date: 2026-11-17
     events:
       - name: DISC 8
         type: disc
         title: The Central Limit Theorem and Hypothesis Testing
-        url:
+        url: https://practice.dsc10.com/disc08/index.html
       - name: LAB 6
         type: lab
         title: Hypothesis Testing
