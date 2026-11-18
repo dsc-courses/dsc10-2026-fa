@@ -27,7 +27,7 @@ days:
       - name: LAB 7
         type: lab
         title: Regression
-        url:
+        url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2026-fa&subPath=labs/lab7/lab7.ipynb
       - name: GROUP
         type: disc
         title: Groupwork from Discussion 10
