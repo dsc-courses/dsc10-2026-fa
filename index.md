@@ -17,6 +17,10 @@ nav_order: 1
 {: .success }
 The Final Project is now released. Access it under Week 10 below. Start on it early!
 
+{: .success }
+On Monday 11/23, Peter's 10am class is cancelled and he will be teaching at 9am on Zoom. See Campuswire post for the Zoom link. All students are welcome to attend the Zoom class regardless of which section you are officially registered in. Students are also welcome to attend either of Janine's lectures.
+
+
 <!--{: .success }
 >Quiz 3 is coming up on Friday. It covers all of the material from the Lecture 13-16 slides. [Check Gradescope](https://www.gradescope.com/courses/1403047/assignments/8814093) for your timeslot and seating assignment. -->
 
