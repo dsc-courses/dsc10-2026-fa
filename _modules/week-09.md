@@ -17,13 +17,13 @@ days:
       - name: DISC 9
         type: disc
         title: TVD and Permutation Testing
-        url:
+        url: https://practice.dsc10.com/disc09/index.html
   - date: 2026-11-24
     events:
       - name: DISC 9
         type: disc
         title: TVD and Permutation Testing
-        url:
+        url: https://practice.dsc10.com/disc09/index.html
       - name: GROUP
         type: disc
         title: Groupwork from Discussion 9
